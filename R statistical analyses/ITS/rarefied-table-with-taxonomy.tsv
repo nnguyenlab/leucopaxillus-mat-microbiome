@@ -1,0 +1,841 @@
+OTUID	F346	F347	F348	F350	F351	F352	F353	F354	F355	F356	F357	F358	F359	F360	F361	F362	F363	F364	F365	F366	F367	F368	F369	taxonomy
+fb8dc54236be19f0306b6231b39089d5	0	0	0	0	0	0	5	13	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Chytridiomycota; c__Lobulomycetes; o__Lobulomycetales; f__unidentified; g__unidentified; s__unidentified
+39a6409bd52fa38465e236553809054a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+1e9e816f5941367f4f86ae1f0424f75f	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+f7c75cc6ea5ffc3d7000be2c1a620798	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Capronia; s__unidentified
+883e294c07e619521e864edd489c84f8	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Teratosphaeriaceae; g__Myrtapenidiella
+072b88125218d0722adb687ed64a500e	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+53c83b189c37fd3296a684b2b145ef05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	275	3	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+9964eaf702b032d4f8c8366f195c8ce4	0	0	0	0	0	0	0	0	61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Inocybaceae; g__Inocybe
+4f6edb79763b1dd49531ef5d19164b7b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	167	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales
+21f0dae56b3c70d0e875d7560800b66b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	128	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales
+3e48d828455473567646b8922094fa9e	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	178	469	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Psathyrella
+d926c15406c99b211ed4f85ad8426896	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	222	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+064230f9b8f1673f0285421e0a450578	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Cladophialophora; s__unidentified
+bdd546665ef849609847640719ffb0c8	0	0	0	0	0	0	0	0	6	12	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideomycetes_ord_Incertae_sedis; f__Eremomycetaceae; g__Arthrographis
+0517db57e88e99fd903949526be8cb0e	0	0	0	53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+ef1cbfe994abfa9f743201d75ab05aa5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	129	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales
+7e6f3a04877044f5b3a58d0b7a2713d1	0	0	0	0	0	145	0	0	21	0	0	0	0	0	0	0	0	120	30	33	161	114	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Cladophialophora; s__unidentified
+aabe8ad2602efbbb181717d115169a54	0	0	0	0	0	0	0	199	0	0	0	0	0	0	0	0	0	0	38	0	5	0	7	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+c30acd6c3ccdca8126a12d403d6fded5	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__Glomus; s__Glomus_macrocarpum
+5ce890ce7e90e24a54061407eb6765a8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	93	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Thermoascaceae; g__Thermoascus; s__Thermoascus_aurantiacus
+021cd6cc3a15d6ef34c4f606d3456ebc	0	0	0	0	0	319	2166	1295	1657	2135	1226	0	0	0	0	0	0	0	0	123	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+e6c806ecc04aab0da3e7b9e340b45936	0	0	0	0	0	0	102	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae
+f366e11364312abc63a4d961b4388b84	0	0	0	152	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma
+b0dd39eedacfbf8182050a0f2309b3ad	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Microascales; f__Microascaceae
+faa9289cde4f1f987dfba8aa29a1915f	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	18	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Cladophialophora; s__unidentified
+0d4d097b9705734a3d6f39c601dcc204	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+fb0961a599853b9a94445e5c3e29e754	0	0	0	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+c7e45c061110df28f472b83fbe605d7d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Clavariaceae
+8ef0e50370c9e3d74bd5fd0e869af562	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+243024d6d481243e7d911533cd6e9c40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+93a6e4a6487063988fcd6f416429e257	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+11e23767d7fe9c8cbbb06cd166e471d0	0	0	0	0	0	159	0	23	25	123	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Clavariaceae; g__unidentified; s__unidentified
+81569361841b19e89762b156f187cca5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cuniculitremaceae; g__Kockovaella
+1b0379d9d42fce7e3f17627f2b43a44d	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+4e1172e6d99b8102c0cf5207320ab0bf	0	0	0	0	0	80	0	11	0	0	0	0	0	0	0	0	0	10	29	29	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+baea32e31c939e1d62bdba13dc3ae04c	0	4	0	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Leucopaxillus
+eb2f08dbb59fcefd52cf21f766c2fcfc	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	185	231	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+051a920d28d1874b393caaaf59e6adb7	0	0	0	0	0	1	7	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	k__Fungi; p__Chytridiomycota; c__Rhizophydiomycetes; o__Rhizophydiales; f__Alphamycetaceae; g__Betamyces
+379bad90882dc8de9904207e70ea0035	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+c9c5d2142aa3d987e7cd287a88932183	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	18	0	19	0	283	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae
+9aa12405794ea1be3a14a95781bdaa48	0	0	0	0	0	0	0	17	35	40	0	0	0	0	9	19	0	0	0	0	4	0	14	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Cordycipitaceae; g__Lecanicillium
+9ca31377424293a9aa89ab653acc6d08	0	0	0	0	0	0	72	34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma
+e130da6715396a07884f7bbf0b40fc50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales
+b00889420077af35eabd02fc6cd4d4da	0	0	0	0	0	0	0	480	0	0	0	0	0	0	0	0	0	0	0	197	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales
+381049c675779de0a159f31107bc500d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales
+d2edc3f6ec6ac66ee07d1e84433dd369	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales
+b52ad35d5b78462f2e6449c383026ddc	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	56	0	0	0	0	60	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+fcd8c8bddcedff430bd0dbfc1c2f90d2	0	0	0	0	0	0	0	0	0	8	29	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Chytridiomycota; c__Rhizophydiomycetes; o__Rhizophydiales
+d22c73f380d6e9ee71112202d6c9f7be	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	2	0	0	0	0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Kriegeriales; f__Kriegeriaceae
+99c0444d399636507fddd5bcd3cc8a1f	0	0	0	0	0	0	9	99	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+8eea599832d734b707b8116db1bb14f1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	621	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales
+97c31b92eba504c210ca2c3c43c5c214	0	0	0	0	0	6	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Thelephorales; f__Thelephoraceae; g__Amaurodon
+e88e87dbf8939b182e7578ed41ebb1ec	0	0	0	0	0	77	29	0	0	0	23	0	0	0	0	0	0	0	61	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Cordycipitaceae; g__Beauveria
+2339434b5b5bdfaef6cf8ffe849c1c9f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Tubeufiales; f__Tubeufiaceae
+a5ced4c2e26a820aa5009f71e56bb406	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	124	65	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales
+aac6e301c6f51799ae1f0a5e7d515aa6	0	0	0	0	0	0	0	0	0	0	0	0	0	127	73	117	9	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae
+ebab652bca906a8885f0c1b9d96a35ea	0	0	0	0	0	0	0	0	102	185	215	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales
+568d1a575d30e004d3a73c838e207e7f	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Agaricaceae; g__Tulostoma
+855492da0aa6f45fbcd38549b14cd234	0	0	0	0	0	32	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi
+7d23164e186f89a0f31450980023e37d	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Olpidiomycota; c__GS17; o__GS17; f__unidentified; g__unidentified; s__unidentified
+9d553eedc10df145af830081290401de	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	149	32	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Trechisporales; f__Hydnodontaceae; g__Trechispora; s__unidentified
+b3380c5e15914ca5f232c1e0134a4131	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+20f1c58906f5c85d4f949b1b397e9515	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	132	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+0299ecd04d79c83f6c98f8d5f920bcfd	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+dbbf9a2dc544e297a685865f9d5976f4	0	0	0	0	0	653	0	411	369	896	1614	0	0	0	0	0	0	0	2	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Capronia; s__unidentified
+8dfb21ab70d99476aa4a0e3fdcf3064d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	40	0	0	0	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Cystobasidiales; f__Cystobasidiaceae
+17268abcad67355d245683636a3bc9f6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	133	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Hyalorbilia
+1d5fd21fea6d46906a1684d57ed807aa	0	0	0	0	0	0	45	0	0	19	0	0	0	0	0	0	0	0	0	50	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+db8558f3e30a6665a06e4cc358a94f54	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Claroideoglomeraceae; g__Claroideoglomus; s__unidentified
+823aee2bb7278155724539f360c34f51	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+ba1a5e27b7fba4661f83d8db9e7af06c	0	0	0	0	0	13	330	35	0	47	49	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusicolla
+b6faa253bf365a4c33e75b0ef1052372	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	82	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+8b40231bddf9d8e2f4e43bb429090dbf	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__unidentified; g__unidentified; s__unidentified
+46bc03c1bf7ed85fe23737dbd73d2c58	0	0	0	0	0	1	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+46c287afc169a6b4e6c318ef19c3a72c	0	0	0	0	0	0	0	236	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pyronemataceae
+5f5549f00894f62b1143e3bcde88d558	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	172	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Mycena
+20960f142eb3371483a01ef330d79c0c	0	0	0	0	0	180	0	49	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales
+88df87c135fe9e8674702139b9e771e8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	k__Fungi; p__Ascomycota
+f3201c2a5e61e84d2578e6b9a1cd501f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	248	365	0	2	215	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+f5719ee3959797c76937b93064884b40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	113	0	0	0	k__Fungi; p__Chytridiomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+b7221912ab5690743220fb6fc5d18b4d	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales
+568e8c36818c955f247bf1d5ec98dbd8	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales; f__unidentified; g__unidentified; s__unidentified
+40d0323dba4dfebfe449ef11c7ed7000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+ce4bc81a291ba0790eb67903bc581b35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	5	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Botryobasidiaceae; g__Botryobasidium
+f3bab0546358e2043fd9f33ca655955a	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales
+a3b1124131e6d4ad02aeefa5f1c6ad74	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+9a481e7daf16e18d624fd121439652c5	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+0b203f1422b148102e4a63c5b7d4a370	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+6b0646c96e3f0614bd98db58d1935c7c	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	193	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Cladobotryum
+f35a1582a802b1d59854254ff468731a	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Thelephorales; f__Thelephoraceae; g__Tomentella
+675557a553c88de3c9a8718e2f4f6779	0	0	0	0	0	0	0	0	17	3	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__unidentified; g__unidentified; s__unidentified
+a0bb329a75903973eac8d8498503acc0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales; f__Sebacinaceae
+db9ff79e67f9379d4abf72d43d712476	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+f0ab71cb9020b70891d9026d30e60031	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	95	0	4	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Orbilia
+4e85d3c93d9f940674811360ce289256	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Mytilinidales; f__Gloniaceae
+e924776a908b85c22510a3ede1980930	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Trechisporales; f__Hydnodontaceae; g__Trechispora; s__unidentified
+8135ee80ea999dcc1dbcc1628c56f958	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Aspergillus; s__Aspergillus_terreus
+e4a0d9dc89cb4fde126e33f3e363888f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	80	161	17	32	47	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+0bf460fcce86bdf6d081e00a71b423e1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	143	0	0	k__Fungi; p__Mucoromycota; c__Mucoromycetes; o__Mucorales; f__Lentamycetaceae; g__Siepmannia; s__unidentified
+146ce398fdadaa6c682e57de278780f0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	25	15	0	22	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+44aeccb23ae34c48945b3c05b08c5805	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+2f392d409e1cb6ab4c81aa47296d1139	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+4d8281bbb34e04c3c856f9c8c8d80570	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Dacrymycetes; o__Dacrymycetales; f__Dacrymycetaceae; g__Dacrymyces
+41ea8e3d8ab54911a2ed012f8fc08d17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	71	6	0	2	k__Fungi; p__Chytridiomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+25f58d279b58c35e3d84e5048e7f833f	0	0	0	0	0	0	8	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Chytridiomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+71db4079dfef86f9b99bb5fb12c6fd34	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Microascales; f__Microascaceae; g__Pithoascus
+c2ed170c65384ba8201bef75c93bd5cf	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Rickenellaceae; g__Sidera; s__unidentified
+0dbb34f1750c286aa5890ea25256465e	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Leucopaxillus
+abcd93d026f63a465ee3407360e748b8	0	0	0	168	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales
+e99077103ca44ba2767e0daaa44a6e1e	0	0	0	252	0	121	451	80	0	0	0	24	0	0	0	0	0	0	0	27	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae
+5c49abca062f60b354eae6083fb12868	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Clavariaceae; g__unidentified; s__unidentified
+8a9370719310ef4ce949c82099d55dcc	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+79176d5a652b4443315b52bb91ee9ec5	0	0	0	0	0	53	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	k__Fungi; p__Rozellomycota; c__Rozellomycotina_cls_Incertae_sedis; o__GS08; f__unidentified; g__unidentified; s__unidentified
+ee10efe9539e637ac9a77ce39f4759ce	0	0	0	0	0	0	0	0	0	57	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Gomphales; f__Gomphaceae
+dab97b467e31e3a027b403af5c5c08e8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pyronemataceae
+594e0f29ede9f9f8d71e685748f9264b	0	0	0	0	0	65	148	134	148	184	41	0	0	0	0	0	0	10	174	86	0	0	0	k__Fungi; p__Ascomycota
+aea719462454eae08ad1859a06f3fa60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	61	0	0	24	0	26	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+e3f46be53ab94cff12f91fd6f89204f2	0	0	0	0	0	0	0	0	241	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales
+8ae009d31c7dca22548d883180b3c024	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales
+230475283daef82bf1ef74cfcad34a26	0	0	0	0	0	0	0	0	8	58	11	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Chytridiomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+28c7f16154a9ad220ac3b147d96940a1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Capronia; s__unidentified
+fd83f5382cd9de32dc048858f9b1f10f	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+8732d538489a57d1f84c2cc51ca30d84	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Sporormiaceae
+c2cb384c2fce1df8c1eadd9c82dd9834	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Inocybaceae; g__Inocybe
+2f11f832ac1b99eb2e5780d2b6f36d26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+9b9062c3cfea7d3a6d8c232251dd15b2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	114	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+0c5bf9f4be054b5393e2a45d3f351d82	0	0	0	0	0	7	0	11	9	67	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Chytridiomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+68bec541b82840c11a8a23ea156fd714	129	0	0	0	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+d37eb080bfa050fd719bee4334cabb3d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+5d70400235765e84dcfe1a11814892a8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__unidentified; g__unidentified; s__unidentified
+c4624b645b2bf4dd2a65341a9f61a942	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales; f__Auriculariaceae; g__Auricularia
+5f0bfa75d5a812c2efa2d2ce24ccf3ff	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	83	256	110	145	72	9	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+154f9931be2030795672be1da2585d0f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	538	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+7a98d8ec9c91a01cefcf64ab280840c1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	0	0	k__Fungi; p__Basidiomycota; c__GS27; o__GS27; f__unidentified; g__unidentified; s__unidentified
+856397baa8dc06bc47e5e3929dcfc9ce	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Clavariaceae; g__unidentified; s__unidentified
+7a7e059d85657af9f73c61b06d78074b	0	0	0	0	0	6	3	95	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Neodevriesiaceae; g__Neodevriesia
+4065ed86a4446d19a674cc5c09a74028	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Clavariaceae; g__unidentified; s__unidentified
+45ffdb662bdd2923b3ca0ff6f72bc25e	116	165	28	0	0	356	89	0	0	411	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+4402c9d0002282089612036bfb7a07a5	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+50212f542b85a854b6b48bf6f14fe446	37	0	153	127	0	0	0	18	0	31	0	3	0	4	0	0	0	0	0	0	0	0	6	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Agaricaceae; g__Chlorophyllum
+1d0cb2049b1e5e19ab589f6f05cad1ab	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae
+81f0da1752f7074383b81f24e5281ee3	0	0	0	0	0	0	0	38	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+996658c33df925c78959b5dc979aa25f	0	0	0	0	0	0	0	110	127	80	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+e549cd5a695c16bab39151e74972c625	0	0	0	0	0	0	0	26	601	53	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Mycosphaerellaceae
+e846b71ae2677532cd589b2cadcfcded	0	2	21	7	23	15	0	0	0	0	0	0	0	0	0	0	0	130	726	6961	73	10	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+5d21491a373c920db61ca1f20a4391ce	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+047359bececa23d78336aed087642be9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	389	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariales_fam_Incertae_sedis
+e7ccfd7d1819097945228472872bedaa	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	29	87	45	0	0	0	k__Fungi; p__Ascomycota
+4cefadb147ec515045fa13fd17c5db69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Bolbitiaceae
+30d27920c889c06cc160923c81888f7b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	125	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma
+fc5bcd6908ace74d8cb941bbfce2b07c	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Schizoporaceae; g__Xylodon
+c59c5b68bdd762d2a1470ab7fbe7c451	0	0	0	0	0	0	0	68	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes
+a8125816088bf12046522a0d85964a22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+2d9f0a72fc7fcbf1cc4faaa70360057b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	64	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+2cf023d1b9d03f95538cdd3c79ed65ae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+ce6a2a0085445ea0f83dcbe845d67fd7	0	0	0	0	0	242	206	373	288	287	527	0	0	0	0	0	0	0	150	61	0	0	28	k__Fungi; p__Ascomycota
+783a2350afb61631d36e40ef0527b1a9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+dd33ae02ef5d70486119f34c88ba965a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	44	16	464	36	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+b1acdef33b3095331b185f5faee66d34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales; f__unidentified; g__unidentified; s__unidentified
+995dcb639dbf524ef6989bfdb60a60de	0	0	0	0	0	124	0	0	573	1578	639	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+a3b8b1040693278a0ac4dc3015d3ca8e	0	0	0	0	0	473	845	337	0	448	1016	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+5d40d5ba4f4b27a563e6728bc18c477c	19184	19238	18698	16748	18683	187	27	128	58	0	0	15999	10	0	0	0	0	0	30	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Leucopaxillus
+7d642b4f4172d72d6225e266868664a6	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	7	140	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Ceratobasidiaceae; g__unidentified; s__unidentified
+55a72a7a4ce14fdde243cc61470dd661	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	272	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+618aba7642dafb80de55df6568eb95a9	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+80dbb4c1e9b72a11854ffe818911607a	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae
+e8d389d6c12f28c76432fb0304bf4e35	0	0	0	0	0	0	0	0	0	0	102	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+5325e0489f85397a45f4be47e83b9826	0	0	0	0	0	0	0	196	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Sarcoscyphaceae; g__Sarcoscypha
+d6251b54bcc7f2d98444e76b81041965	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	k__Fungi; p__Ascomycota
+38e1d0917c0e4b5799fc4dc55dc464bd	0	0	0	0	0	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+95a6ceac64b6b2d54cf31c31f76a5ae1	0	0	0	0	0	120	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Exophiala
+32345c22813901a24da7ebc41e6b9ed9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Ophiocordycipitaceae
+40f3fc859ec61b2a9606dd921449ef8c	0	0	0	0	0	6	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+824977fc5a8f6406ea4b7e788aec908e	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Sclerotiniaceae
+42bcea2fa8156b0b6a1bbeca849faf05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	2	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+0fa1ecc340e9a28c7c2143e7dd7d1856	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	4	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+b9806a62c92bb264cd77ee5c85cc2feb	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	k__Fungi; p__Ascomycota
+ab37fb2140d0e50d1aa983d60fbce6d9	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+b4a68239aeab7bbec9f801384008a609	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	422	220	0	0	5	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Venturiaceae
+593403009ff3da21fcb9612a40f42333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	1506	0	95	157	101	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Chaetosphaeriales; f__Chaetosphaeriaceae
+e3d14e26c1eccf1b0daf6d5f41a22124	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__unidentified; g__unidentified; s__unidentified
+f2bc5ea9e5607558b09702813d33a5b8	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	7	551	84	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Capnodiales_fam_Incertae_sedis; g__Pseudopenidiella
+7649cd9fb476b65d4656dd529fbb4453	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae
+6eecdcd3d42779efcbb2e4984f5c499f	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Trichocomaceae; g__Talaromyces
+16ae2c67bfd98cbfa053b363ee37767f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+3d41caa70208b87214698513f7593e6d	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+7875a6765940d38950516bad208107b8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	0	0	0	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+5e1bec31288fb9abd17fad4d0a0987f1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11565	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Psathyrella
+0020945b3946b21cd91e90d395f663b4	0	0	0	0	0	41	9	0	0	0	8	0	0	0	0	0	0	0	4	29	3	10	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Ganodermataceae; g__Ganoderma
+79d1123459478398934227703dc0f812	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+7ad31de44bf701312a2a44d3a07cfc6d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	18	0	8	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Cordycipitaceae
+05690206c62afac96535dcb7bef8c8d9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	38	337	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Exophiala
+4e59b7547182ab1f4df9484cfd97dddd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+5f31451acef8977416ed02990786bc4f	0	0	0	0	0	0	0	15	48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales; f__unidentified; g__unidentified; s__unidentified
+cc094825e0afef56b8c5d651c2dc7925	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+0bd1e47715b8f1ea5ffacb0d29d83368	0	0	0	0	0	167	17	210	50	82	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales; f__Serendipitaceae
+bd0a9e4b00de6d99840a716c3381a6c0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideomycetes_ord_Incertae_sedis; f__Eremomycetaceae
+ab3924567abb1d221bc11dec67ad53ac	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Ophiocordycipitaceae
+322a51115dfcc09064fc6a657cab1787	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales
+c562c4f222680eaf5a878499b13036e9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	194	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+8cf4eea8521c13e9fd9e4a8e5438c5af	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+9bbe2a8492457448950f152a5384cf9a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Coniochaetales; f__Coniochaetaceae; g__Coniochaeta
+ea01934c2aa288556db115553d462111	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae
+64e0d29349a3b0aaeaa51bd206d0ff6e	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Cordycipitaceae; g__Lecanicillium
+5620fbf731e1d69d8467a44173bdf4c2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	15	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+b0f6b9cedbdd8fe4c3b67b9e1bb80656	0	0	0	0	0	43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales
+37189598bda7eee9f7beefacc94d4ef5	0	0	0	0	0	67	0	30	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__unidentified; g__unidentified; s__unidentified
+b82f50a78ad8cacdb4181c8a09fdec12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Gomphales; f__Gomphaceae
+c396f0be43af9534353b48f2f8183801	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+ba99253981033471910287797244c363	0	0	0	0	0	66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+18be43d1e18dfb8b992faeb8c43a7e3d	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Cystobasidiales; f__Cystobasidiaceae; g__Cystobasidium
+6e70197cbf21f07932806d7cc6322dd5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	65	0	0	0	0	k__Fungi; p__Ascomycota
+8355122755d0e2496ed07820d46278b4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cuniculitremaceae; g__Kockovaella
+941b1ff5318fbef88a3efd0819146fac	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Saccharomycetes; o__Saccharomycetales; f__Saccharomycetales_fam_Incertae_sedis; g__Candida
+4cb29f260a3b84d50a141fc5ee89433d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Teratosphaeriaceae
+3e9e3f1abb547723b3d5145400b2c5ca	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	236	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Clavariaceae; g__unidentified; s__unidentified
+5307efa2bbfc92b5e98d2037831a8d4d	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Venturiaceae
+b3857d94556c7d180cd0fb5fd3206a9e	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Sporidiobolaceae; g__Rhodotorula
+24938e16a151a5607d982aaa75f59cad	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	k__Fungi; p__Ascomycota
+c22b667722bb63cbee63cf0bfd6276ff	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1762	51	16	247	211	106	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+42cb0527da7563b1fde599fed81582ec	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+4efd1afe3dcf83934773e6f491b9c2e4	0	0	0	0	0	17	0	41	24	0	52	0	0	0	0	0	0	204	0	43	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+ce692387a6789cf92253c68c89a29b21	0	0	0	0	0	0	0	0	0	0	0	231	170	118	176	302	52	214	1297	312	1420	565	814	k__Fungi; p__Ascomycota; c__Dothideomycetes
+f578c44da3ec3686acfd5c8c8b681146	0	0	0	0	0	11	423	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Venturiaceae
+5801c62e71da926692303f53b786ee55	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	25	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Myxotrichaceae; g__Oidiodendron
+0cc42437960419ea1026363cfccb5176	0	0	0	0	0	0	0	5	86	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__unidentified; g__unidentified; s__unidentified
+f40e4d71d029bb4110f9dbad560121ec	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+40ed5b9c7cdff9ca0106f09e0efecde8	0	0	0	0	0	185	0	259	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+fa9fb40d804d83af4bb5029f8bd2dd3a	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes
+f06776006017ea843a3d0a249d91dcbd	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+31ca2e01474f54ca76afd8061a0c1cdf	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	29	0	0	86	81	k__Fungi; p__Ascomycota; c__Leotiomycetes
+0530dc8c50670757ba212f0902eaac84	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Claroideoglomeraceae; g__Claroideoglomus; s__unidentified
+4069383c4a141f21ef84b68b6877e36d	0	0	0	0	0	94	24	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae
+7754e90259ecee0dcf06d6aba5438c03	0	0	0	0	0	0	0	0	14	56	37	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pyronemataceae
+b9c9632766dce7011708c5b1822e4add	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Cystobasidiomycetes_ord_Incertae_sedis
+3d3d4fd0541a08adfe35d76b087d7d82	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Clavariaceae
+b2175bba264c63c9c4374c73b494c491	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	7	0	0	51	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae
+8f079f1495f6f0dd4b5d81441c0c2f80	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__unidentified
+2f7ee7dc8834434ffcb4845e50b8ce4f	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+72db75d034a079a5cc35dde6273b5e5d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+87f1096b32967d2a4509d732d487e0c1	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Hyalorbilia; s__Hyalorbilia_erythrostigma
+67abdb147eb64b2d33dd9b4c20c55d24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	235	40	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Cladophialophora; s__unidentified
+6b571c5db3d853f9573fafbd409c50e9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	61	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Pluteaceae; g__Pluteus
+30f6f96d6da2568ae352da21b5a7e542	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	15	5	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+60432e2d8a08358630730d23ec26ae61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Glomerellaceae
+ac59e33131849416e8e4e90ea2211d53	0	0	0	0	0	3131	0	0	30	58	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+43aa01037e1a332b9a672d6196830bee	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+9324381c010d6ebfcb15cce31d2d061e	0	0	0	0	0	0	0	0	0	17	10	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae; g__Metarhizium
+42770015710d2ae6601ecdecb6b59f80	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+9bb1d08a45bcb01baf8a5c5784da8210	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__unidentified; g__unidentified; s__unidentified
+893cbc9b6ba7a3ea1b03f4c2a4c7792f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales
+e6449971b0ea8c48ad0c0752e420e37b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	88	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+e3750dc0a4fc4f44638fc66606c1798a	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+91d91bbade9804fca29d8d2d702fc35e	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+167d4b3088841b4fc0cd620cfd2f149d	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	60	0	229	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Geastrales
+a6bece6d3ffd69cd94c3dbd78fb78370	0	0	0	0	0	16	0	0	57	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Sporocadaceae; g__Seiridium
+36991f62774acb762269833c7332dc1b	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+4143437094efd8cbab7c032251ccc09f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes
+0c0694da574f9f84914fb1a198e63e8f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	2	0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Leucosporidiales; f__Leucosporidiaceae; g__Leucosporidium
+e55557291c65f7d0e0512c7cd26b54b6	0	0	0	0	0	240	110	0	123	0	13	0	0	0	0	0	0	107	64	80	92	132	132	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+7df64fe41388ea7f23338aa46b78fd35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Psathyrella
+f2e16cd433ad613c300df2f422a9e53e	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae
+761eb7f78721e6fdbb949b29b8391ed3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	16	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae
+80734b19b75469cce253d54a42cd4ad8	0	0	0	0	0	138	64	35	0	0	42	0	0	0	11	0	0	0	74	43	430	185	144	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+bb97a74b1678af912ee47ac39fd824cd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	35	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+f4767ad0c65aacd170ffc7c1252ff96b	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Myxotrichaceae; g__Oidiodendron
+c7c453a7bd183166acc71a1283616ab5	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+d4bab5218406f343ab9bd671fc84dfcc	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Mariannaea
+46d05a0220984af8010663832963504c	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	168	13	16	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+9772b9a6a353eabf6dc00106993fc838	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae
+5e250972cf4ee64853363f92502cbc29	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+692df53128770e8f92c31903050758b4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	962	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales
+ac1e6b30de2bcfc65b5862eee7646537	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Mycosphaerellaceae; g__Readeriella
+bd80c0d79208a2de1cd7cab8e25fb12f	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Coniochaetales
+b0c5262779f4b13898e969c6cb3b6e9b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+e2122b6469d84f6c28c81ffb6e2b4ee7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Plectosphaerellaceae; g__Plectosphaerella
+242b93563f1b3bcdfdf1a32a8624748a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	374	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales
+e55c0d21e2e1b8804601caa626f76514	0	0	0	0	0	11	28	70	27	228	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+a705b9b85f419a9b678835bcda7a5011	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae
+d9b52a4eaa4b9901439363d9ea837ad6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Myxotrichaceae; g__Oidiodendron
+6dfe7a1c241a7f2bd8388ac8755c56a8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	73	166	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+e958132d2ed02ad465669cd562ab4a07	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	143	119	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales
+19612b4f5a40d6901aaa595b85ad0cb7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	74	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Botryobasidiaceae; g__Botryobasidium
+4b2528179c5f9ea609554bb85f4423e1	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales
+430916c45acbc2e551407fe41ebe3eec	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+b3bcab07bdfea409b5d00763dbdf6013	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+c3e624a906b877fab081cb43a525e992	0	0	0	0	0	0	0	0	90	211	0	0	0	0	0	0	0	0	76	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+c44aafc76816f51ad17d26726fe7b903	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Microbotryomycetes_ord_Incertae_sedis; f__Chrysozymaceae
+38c0c6c754d5a5301655658d52c767ab	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+a205837f5bed0e60c939952f352f4ea9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	102	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Myxotrichaceae; g__Oidiodendron
+9f322123f27d266cfddbd0e168b759e8	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+84e3999e199bba55b83568c7e8411457	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	203	74	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+6447bfa064d701ae80add59d6e290fbe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	23	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Piskurozymaceae; g__Piskurozyma
+e375e08656f997cf3f28dcbe71a3558f	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+ad132ca7453353d44405fc3b1aa8faf4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	14	10	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+b4af099408c169899e3ed1bf6cfba417	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Chytridiomycota; c__Rhizophydiomycetes; o__Rhizophydiales
+c5c5db50853622e70d3f7e4791db52ab	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+fb9e5e7fe644ff85455c739107dfb8b0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	139	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+0a245718794dae34d17b3f801d8e4e38	0	0	3	6	0	0	0	0	0	0	0	78	9	0	0	0	0	256	935	692	580	119	706	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+f01635794a54dc9998209d5d98007463	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Saccharomycetes; o__Saccharomycetales; f__unidentified; g__unidentified; s__unidentified
+04e56a792a34a9a67e6da28d921f7043	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	212	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Strophariaceae; g__Tubaria; s__unidentified
+7bbd1ffa790c3fc318349aa4fc0217b2	0	0	0	0	0	50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Niessliaceae
+f5cf06b300eb2b9ffe3a118483a760ea	0	0	0	0	0	184	18	0	0	0	166	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales
+4e63764dfce72cfcd67c118d03ecbf74	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	1284	0	0	0	271	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Coprinopsis
+930cf059349602ff51190cee2da08205	0	0	0	0	0	0	0	54	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+05e941030e9fadcd1982b3035dec4c2e	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Psathyrella
+6388b0d97acec299e6e3a8e0f2d468b3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Atheliales
+0c1c69a192b5426c3fd503df0ef089d5	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Botryobasidiaceae; g__Botryobasidium
+8935a457785fa2079ae665fa31dfd8e9	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pyronemataceae
+54c2c70b4b4cd14c60fed3c1c3ec5ff4	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+6037b2da78060ab9c31cbd007a240d57	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Microbotryomycetes_ord_Incertae_sedis; f__Chrysozymaceae; g__Pseudohyphozyma
+f1282e67754ec7acda07003380edc955	0	0	0	0	0	0	0	51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Pluteaceae; g__Pluteus
+92044f6ee2dfa7477714e8cb09686fd4	0	0	0	144	0	51	78	183	19	253	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Sarcoscyphaceae; g__Sarcoscypha
+857e68fc438808c0e4e8861fec55bb36	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+a5cf7c5ce38aca50c9f8991c768964a4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	8	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Strophariaceae; g__Psilocybe
+847de4b593024aa7035db2fd2d6b7b98	0	0	0	0	0	398	741	2894	3766	348	349	0	0	0	0	0	0	0	0	99	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Venturiaceae
+7690f092a53aa16dd54f30745abc212e	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Melanosporales; f__Ceratostomataceae
+fd63c173f774dd9dd2adcff4a1836933	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Microbotryomycetes_ord_Incertae_sedis; f__Chrysozymaceae
+3a5aa94de1c90dea82eae205d0c43819	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	569	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales
+0ba33ad9df328f5cd685c4cbf28338f3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Hyaloscyphaceae
+1dd4b333804ec80a331076dc592b1f29	0	0	0	0	0	0	0	0	112	11	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae
+8563c99b32cc7bad88fa8ef49c5dfd93	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__unidentified; g__unidentified; s__unidentified
+5d37b9241d4685776269d0b4772fb1db	0	0	0	0	0	0	0	91	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae
+a0c56b7191280669ed6df98cd72a23d3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	72	0	7	5	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae
+cc4943e1c9559d4ed028ccbced41259a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	137	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Chaetosphaeriales
+f3e7d20736ad346a91090dfc2e2e9fed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	84	k__Fungi; p__Ascomycota; c__Leotiomycetes
+f7c78b86bb2dc0ffba00e129cdca99d9	0	0	0	0	0	11	64	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	5	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+355b82818a78b06cae6cfdd5d41b057c	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+accd7c2012051958f3e172025cc34909	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pezizaceae; g__Peziza
+f2b74cf770751ad1bf6bc6e5a36056db	0	0	0	0	0	0	0	50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+b487eb04c456ce07e44fbc8545b81701	0	0	0	0	0	27	0	0	0	0	0	0	0	52	5	138	0	0	10	63	94	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+1845fef97d347b723d1660987dc4264f	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Saccharomycetes; o__Saccharomycetales; f__Debaryomycetaceae; g__Debaryomyces
+2812fbf0192523610b18d7405a0d8794	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Clitopilus
+ac7b6d50808f2c50256ed15207c4c68f	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Niessliaceae
+3027c5103a688a764e09ee76c4daa3b3	0	0	0	0	0	0	0	0	67	0	0	0	0	0	0	0	0	0	0	0	8	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+a799d7a23f9920cfb82a3dd841d8fdb5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+621a83fea1cfd09efcc3c3fc01035f53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Myxotrichaceae; g__Oidiodendron
+3064221a46b7ea12f802b70a467fb815	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Pluteaceae; g__Pluteus
+abbc909d00d9b573db78197a2add5297	0	0	0	0	0	0	0	0	0	0	0	0	39	94	44	0	145	8	387	87	23	0	37	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariales_fam_Incertae_sedis; g__Castanediella
+39eba01b8b91078e0cfb8001b28861e9	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes
+7bdb4b211c71de55ee1d0553c063325f	0	0	78	315	176	237	383	495	278	521	187	0	0	0	0	0	0	25	28	148	512	274	46	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+290d548379429f374136144aabc8c683	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Trichosporonales; f__Trichosporonaceae
+86f573298c65374075f8316cd58c6078	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	223	0	0	0	0	0	0	4	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Stephanosporaceae
+9995454ce07b941cfcb29ea276b1abbd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	99	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+59109be64f96b05b110812705feff650	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales; f__Diaporthaceae; g__Diaporthe
+3e94acc0831debbcb9283c62c2bd6ba9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	4	30	28	79	4	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+37c3149e255f15b554488bc2b1bb2a54	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma; s__Trichoderma_aureoviride
+37fb79b94e67d9424390cdb5efbb3d3a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Cladophialophora; s__unidentified
+ae702d8167936ce7aa3f856254fe2ac1	1	0	0	0	0	110	187	63	26	297	0	5	0	0	0	0	0	265	0	139	0	393	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae
+d956ec0924784985afaee14fc29338ec	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	52	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+6f3f1d79e5d1ed62879b3e76a4cafda6	0	0	0	0	0	358	44	181	206	279	16	0	0	0	0	0	0	0	0	0	138	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Trechisporales; f__Hydnodontaceae; g__Subulicystidium
+ccb50de0667b88ce989ccf80c2c3ea63	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__unidentified; g__unidentified; s__unidentified
+52fc9116aec15e25f01fa85e24ab0a53	0	0	0	0	84	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreales_fam_Incertae_sedis; g__Acremonium
+63eb2a0bc2dc0cfbff578093048f4762	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Dacrymycetes; o__Dacrymycetales; f__Dacrymycetaceae; g__Dacrymyces
+9d2f8855c9fd4fe9ed6d72c9703db2ba	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+1a9eb98dc52e42f79b963c429ca302b8	0	0	0	0	0	0	33	3	176	0	0	0	0	0	0	0	0	0	0	6	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales; f__unidentified; g__unidentified; s__unidentified
+461cca90dee42bfae9f79368d1fd7ce6	0	0	0	0	0	334	378	739	255	422	799	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+ddebafd61887d0ec00cf1006ed45a688	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	121	0	0	27	11	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales
+cda6d056eb37c19c4451bb0669d1ae2b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__unidentified; g__unidentified; s__unidentified
+518ab3e7f64913dfd09abb3cedead518	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	81	0	0	19	k__Fungi; p__Basidiomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+a5bf4ae6d1134eddc1e4843369043366	0	0	0	0	0	10	0	21	102	58	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+843a0f412d4463b098f502e1fc487e0a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	96	0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Microbotryomycetes_ord_Incertae_sedis
+811b9b563b82c63a0ff94b9a700c640f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Chaetosphaeriales; f__Chaetosphaeriaceae; g__Sporoschisma
+97f67e8f57ab75996593f4d5fd326714	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	189	262	20	55	0	31	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+321246ce4a999ab48cc2effec6cf4e1c	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae; g__Xylaria; s__unidentified
+2a21e94617b9b07f7714512e9f11e1e7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	0	k__Fungi; p__Ascomycota
+75b169411f3e691042785be0f831835f	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Agaricaceae
+d063b55aac0e2d06936c63229960c7da	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Onygenales; f__Gymnoascaceae; g__Leucothecium; s__unidentified
+e358718d35ac6815a7c89fdb3336713b	0	0	0	0	0	0	0	0	0	0	1026	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales
+f0f318cb679c3ec312ecd8771dd45643	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__unidentified; s__unidentified
+f52784386ba31d61662c5eeff5503db4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+bcbd67a67b34f84594222723839380df	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Stemphylium
+8250294800f736c00189b036d1c8d00a	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreales_fam_Incertae_sedis; g__Acremonium
+4c1f5c80119e0ef1e0c04fdc3eb9c53e	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	k__Fungi; p__Basidiomycota; c__Spiculogloeomycetes; o__Spiculogloeales; f__unidentified; g__unidentified; s__unidentified
+2767ae2139bbf03b3e910a4acf0d5f1e	0	0	0	187	0	0	0	3	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pyronemataceae; g__Wilcoxina
+5ca231329b1f922d5983305df8dfc69d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	136	346	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+6ddb5796b90f853853d99c6b1e520972	0	0	0	0	0	0	0	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+b44cda1c98d9828440c3bad01e153ffa	0	0	0	0	0	0	0	65	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Capronia; s__unidentified
+c3d591eda05184708c47efe49f601548	0	0	0	0	0	77	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae
+5951eaa024bf97e1a07a60e649179728	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+52adb5b02f9d446caa7dd0ad1ddc0dea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Chaetosphaeriales; f__Chaetosphaeriaceae
+060b7b36f7832d5b3be388d6a0b997df	0	50	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Microascales; f__Microascaceae; g__Pithoascus
+6a879b10f057596e7300a2b0840399f5	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Microascales
+0102a605229b33691e1290ffa49ad515	0	0	0	0	0	123	26	305	35	135	56	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales
+1c4be42e851c7ec99edba5bf6978e2a9	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleribasidiaceae; g__Bulleribasidium
+22dac80800406a3fa39f14f6ffeaa34e	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	209	26	313	7	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae
+78a6b52551967d473ce1cc2e533c3f12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+f036e99bcaadfbc60c896672c663ab02	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae
+10f6504ba544d910664bc2b623620e20	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+a51e62c3e8435381153e90ae7adc1de9	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Ophiocordycipitaceae
+8ab19d5b8fa8fd99f6cb2832ba890ec1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	183	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales; f__unidentified; g__unidentified; s__unidentified
+2fec9c74094a5a0289006731c8fb9424	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Clavariaceae; g__unidentified; s__unidentified
+50c0aa55429623a4cab46a54f8b88268	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	95	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Bolbitiaceae; g__Bolbitius
+8b65cd6c47a9157b27ade56be39522d8	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales
+95dbe16c0b408d542bb135ceed54e818	0	0	0	0	0	96	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+d39183dcbcfe69f5821e09f5ebef26f4	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+b56c496c29c235161ad24e2250fdc3f2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Mycosphaerellaceae
+3713cb6562c0addc089ab621d444b3b0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+723c4e8b42ccf099912da857e103cd63	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	225	0	293	146	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+6427d5b98867a9908ace499afd1e1a69	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+234754297f825817b74969b57738fa6c	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+e197c3878eb5a2c569c0fafded28e87d	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae
+697c776fdbbdc91c5001453f42cf5ad6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	276	7	0	0	26	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+9fef5d672531fa03ecdb9a7f25920e8e	0	0	0	0	0	214	470	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+b9f44cef17652ed4d493156fded7d22b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	175	0	143	78	21	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales; f__Serendipitaceae; g__Serendipita; s__unidentified
+f04803e907a863466cb13874e2647b80	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Myxotrichaceae; g__Oidiodendron
+8a664c8bacb0bcfa3d2f0f311e2d2827	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	22	39	1	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+42541709483a01e010f4573343c9cf14	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+281cf33b8b4259038c6c96ae01bdc560	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	218	0	141	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Chaetosphaeriales; f__Chaetosphaeriaceae
+d0e2d191764a94dd884a5fed3e2b5e52	0	0	0	0	0	0	0	0	0	93	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae
+ef12d9ab8552291d19a6f1b19679e744	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes
+6cdf658e52e2cc6097da3eeabd010714	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Dermateaceae; g__Pezicula
+10cedd7e0d403aef4b8e2ab9751a2efb	0	0	0	0	0	13	13	0	6	180	78	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Chytridiomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+7446bd726c50ed88920c131503d931af	0	0	0	0	0	11	0	0	0	185	3	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Melanoleuca
+4ba05d2a0700b160b8c18809eb735f44	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Gomphales; f__Gomphaceae
+03d5cb8514c5a4d941c933f1b3179649	0	0	0	0	0	0	0	0	0	0	0	0	0	0	113	0	20	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+33011e3a67ade33856f1af1df8210746	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__GS36; f__unidentified; g__unidentified; s__unidentified
+658002cf36295b9d56a253ce4a312d7d	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+87c560f2c651ba95d49732cd372b57f8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	26	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+a908ceca7eec6c9cf3c4fdd5e852a12c	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Trichosporonales; f__Trichosporonaceae; g__Cutaneotrichosporon
+8d5d70809f523cb95e2a64aefcd30131	4	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	208	0	1188	18	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Hydnangiaceae; g__Laccaria
+431838f6ad7986e13d9b33ca05dbea5a	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+dc902779bd6555060efd8efc6f0769b3	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+1f12fc1922f7b6af5d889df4232a7a3c	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2125	0	111	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Strophariaceae; g__Tubaria; s__unidentified
+dbe53a15d70d4f8ac05c9d0099a3516e	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	54	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+f604b4920a89f02991b33b663321b5e2	0	0	0	0	0	0	0	0	232	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+9d5e1f7207f99ba43b3646b6bbea17d8	0	0	0	0	0	0	480	177	0	52	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+9f8152cb3ef1eaac765c3d3765565e44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+2be7b4eac41a9fbd4427a2c5fc1f31e8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae
+69fc985f27124be3f895264477d036fa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	k__Fungi; p__Chytridiomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+9561086bb861836372f46ed232ed56f8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	k__Fungi; p__Ascomycota
+1dd11da8016c999f733b37aabf55e3ee	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+f4a58435618c8739f8689394ae1952b6	11	0	0	123	39	62	34	41	48	67	0	0	0	0	0	0	0	0	0	0	76	46	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+67bb17e7452664a86502227c2685e532	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+4c94a72618495952c7cdd657431d8331	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	25	0	9	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Ophiocordycipitaceae
+4e977fbf42874dbec18bcdf608667bfd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+c87deba515b1c9d53f683d591172fdee	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__unidentified; g__unidentified; s__unidentified
+d47d5922a0ae82f3364afb8d6802d81e	0	0	0	0	0	765	7	310	245	247	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales
+29077b6c4494c79670666aff14e37404	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+3295a80211271deb659c8bc2400162a3	0	0	0	0	0	12	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+eb4883ae4986befce2b2917e8f636255	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	7	k__Fungi; p__Basidiomycota; c__Microbotryomycetes
+eb84c82598cde8a59d116eb1af3e7cf4	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Cladosporiaceae; g__Cladosporium
+1eba94b7ddee514ef9b3805f6ca2c226	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	29	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Trichosporonales; f__Trichosporonaceae
+f2223198cc29b827c7d52dea786c084b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	53	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+2af71886b8c0bb8056cbbb95120e021f	0	0	37	0	0	38	230	23	0	166	54	0	0	0	0	0	0	0	14	25	22	0	39	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae
+7fc288694a3762e04dd9ad0347dc5d3a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	k__Fungi; p__Ascomycota
+806475f37b2e343aa789079c35aae7ea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	264	291	66	1	6	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales
+9976d83ce1bf8d8b3e3e283e3536c735	0	0	0	0	0	69	101	12	21	19	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+6135bcf1ac84b61a979f3075b871c6a1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Helminthosphaeriaceae
+938b2b4ace90b49f6dcd4cf5508f52af	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+a463e2a582d9c8ce2a13099cf0539889	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	277	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__unidentified; g__unidentified; s__unidentified
+d5f310e2536c59bf931dc8c0ca4b8bd5	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	10	11	12	0	0	k__Fungi; p__Ascomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+af377b8a751b0fd9c38230e96f5ddf3f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+bcd87fd05d159582d5bd90194c02e175	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	157	28	0	31	174	104	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+d2827cff11eaf674533712bdd6c6f8c2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Psathyrella
+3a6a0bdd1aaa896d7ed32d92b102496f	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Trechisporales; f__Hydnodontaceae; g__Trechispora
+7202f8d633381657f72a477cdb7e1a13	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+7d21669e2f04cd3a6a94ca3b82f3ffd6	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Rhinocladiella; s__unidentified
+e13407ec891188a1b403026375093f4b	0	0	0	224	8	0	0	0	0	0	0	2927	18943	19094	18987	18125	19242	0	0	208	0	18	12	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Leucopaxillus
+46d7da016af51eca268f11adfc64a03b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Orbilia; s__unidentified
+ae8e36fa46af96082c86d6ce93f4f8af	0	0	0	0	0	0	0	0	0	58	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Chaetosphaeriales; f__Chaetosphaeriaceae
+ff143d8d39353db81e29ad09fe6cace2	0	0	0	0	0	48	8	106	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+1cde29d1b2fc9a0ede4acda3722c6d4f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae
+435573045d5b68f3e56e02feee65cfa9	0	0	8	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Geastrales; f__Geastraceae; g__Geastrum; s__unidentified
+c567d860352367aa48c11047b9018bd0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+ce5a771cddc1283d56b98d8a7cfbc3cf	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Mucoromycota; c__Mucoromycetes; o__Mucorales; f__Cunninghamellaceae; g__Absidia; s__unidentified
+a81196a62fb6cd21766938ae5f45700a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	6	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__unidentified; g__unidentified; s__unidentified
+06fb26c07c8aa9245faf05458adf13d5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+fdcf8887888459e2a531368a2755cc09	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	k__Fungi; p__Ascomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+c39363059203196fa2995c5814e4c305	0	0	0	0	0	0	0	0	0	120	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Tricholoma
+31116cebedea861166f0763a7c93e79f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	63	117	10	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Botryobasidiaceae; g__Botryobasidium; s__unidentified
+537b2b163a835b9f49fdc364841a604f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	541	62	66	114	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+7f96268cd32c3b6532cb700da1b7e26d	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+4d9dfbc9f6d6cef9d02072de2806c5ea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Polyporaceae
+72bb06f69916310114941278d39ebfef	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+e9689f497a798e0686a6e93c2a03de09	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Niessliaceae
+559b7169ecc44e619146a25cda4bf745	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+a9b6f4f5481e7c9bf3e58e566d761d0c	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales
+0d1a2384791bfc56bc85f218b38c9324	0	0	0	0	0	166	14	39	0	43	22	0	0	0	0	0	0	0	0	5	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Sporocadaceae; g__Pestalotiopsis
+5d512d9554b2d59837ed16dd86a95c00	0	0	0	0	0	0	0	0	0	41	67	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+7705431a47107584c441c3bcb3f73236	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+20fc2c6abe6b5aefd15d353abafcc329	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	16	2	14	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+3b1fb03279af270add5b0c9f811df7c2	0	0	0	0	0	0	0	0	12	12	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae
+69899d68d556610b02453a58f92d152b	0	0	0	0	0	351	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+732adf6729f5bfabe645fac278fc2b4a	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Coprinopsis
+9ef9f145af5cdd3cda3f5152fe5e1c4f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+b5373a08b224bdb75f17e79562c5c8c4	0	0	0	0	0	170	168	0	0	301	1382	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+47c9fb698c949e5bd60bc607d3177e23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	80	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+e4aa648094e2605859350c5d1ca19939	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	69	95	168	78	47	60	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__unidentified; g__unidentified; s__unidentified
+c405d0a0435055b3a9060b7b64e868ba	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	41	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pyronemataceae; g__unidentified; s__unidentified
+c7bcc14c4564488c191f036fc25ab0a1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	103	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pyronemataceae
+0bd7fd152afa0a212b484fd0491a7a8b	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+a59e55e0f17c9bd3fd4094c48eaf5e43	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Sporocadaceae; g__Seiridium
+198b77a4c2dd4e42388b19c0916c3de9	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__unidentified; g__unidentified; s__unidentified
+0b686851fcb38e393f7c7d4362a93cea	0	0	0	0	0	33	0	0	28	38	47	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+c148a9c95ca9aa4cb0ee55c70ce100f8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleribasidiaceae; g__Dioszegia; s__unidentified
+c3f2db3f7f4f78f69fe525afc7950a2c	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	209	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+198290920042b1d59a994bb78b969e87	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+1e61d0af9dc5b65f9386bdd265d5fcd6	0	0	0	0	0	0	0	0	0	0	243	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales
+6cbacd9604fac8f136f19c501559dd95	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Mycena
+8ae15cbbd159fe51bfbfbaea85b92516	0	0	0	0	0	0	0	0	0	0	0	54	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Leucopaxillus
+b42ac55e1d73369dde8047d82fe599da	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	125	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__unidentified; g__unidentified; s__unidentified
+c54bf3063573523a980f93e81ce9d512	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Ostropales; f__Gyalectaceae
+8a9d10e9ab4ec1a8d393b81e59e04477	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Archaeorhizomycetes; o__Archaeorhizomycetales; f__Archaeorhizomycetaceae; g__Archaeorhizomyces; s__unidentified
+52db30eb149ce8a71507790d26d64409	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+4176a6a083ec6f8c4d4ca3751ba1071f	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Sporocadaceae; g__Pestalotiopsis
+618602fd60474e35e3257750e9a3f0fa	0	0	0	0	0	22	84	55	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__unidentified; g__unidentified; s__unidentified
+c7f3117c8a3158096aa0d1e1423981ec	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	26	216	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+08a59c365cce8d8a904f270ba2db2aca	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+4515b1bfa0d9574d9ca9afa7c3cb9e9f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	k__Fungi; p__Ascomycota
+558600f152fd35c931ea7ddf92703203	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	29	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma
+88c2e86846cb2fbf2072511c921feb3a	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+f56f164eaad69c472cb77f47dff4045c	0	0	0	0	0	23	0	0	0	28	20	0	0	0	0	0	0	0	0	0	36	29	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Ophiocordycipitaceae
+49116ee5b3f033a4a22dc4e48d659bff	0	0	0	0	0	0	15	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Clitopilus
+f94cf41187f1bf8f0792ed802669c1f3	0	0	0	0	0	79	0	15	0	7	40	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi
+3ebddfe46da3b1ec2db5ee2e8acf1962	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+f67efbd9da687c1b0835eff91648e77d	0	0	0	0	0	128	1984	144	390	223	244	0	0	0	0	0	0	35	0	21	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Niessliaceae
+df408db63907343cd782d8cdaebd986d	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Clavariaceae; g__Clavaria
+0fc69347e2e186c29271bda97239e9a0	0	0	0	0	0	0	64	65	137	51	242	0	0	0	0	0	0	0	0	11	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+6705a980646e8db948f8e5699a9664e2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	46	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+784c877c2ad7b8ccf0ac8482961fc256	0	0	7	0	0	161	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	9	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Pluteaceae; g__Pluteus
+61d4ef99ede56d410dc77fc10040de08	0	0	0	0	0	0	0	49	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales
+7927fa4ef9e319e29c3e93d64d350708	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	68	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+029d0461f12ae97e2d80fccbeceda903	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Coniochaetales
+49a96d89945fa8d3cb5c0c4c542bcb62	0	0	0	0	0	45	0	33	0	157	54	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__unidentified; g__unidentified; s__unidentified
+bcf34d11ff8b9a613e3467e6d402a2c8	0	0	0	0	0	26	0	16	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__unidentified; g__unidentified; s__unidentified
+70e9d17954283549c3d7e3ca7d6c45ea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+9b21b1dadb39add02ba04b658b1e9186	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Peniophoraceae; g__Peniophora
+a18bfc90cf5a98fba76d74a67bf6e83a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	159	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Parasola
+179250c4c85e4ca84ac361f9a77e4d7e	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	177	0	k__Fungi; p__Ascomycota
+2c6a82a7bba66e6b5e83ad7ccc88b60d	0	0	0	92	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Wallemiomycetes; o__Wallemiales; f__Wallemiaceae; g__Wallemia
+36086a9224f48a10ffaefd97ba98dc16	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Cystofilobasidiales; f__Cystofilobasidiaceae; g__Cystofilobasidium
+9fdd6fa39d1c463747c88920b960fa4a	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Saccharomycetes; o__Saccharomycetales; f__unidentified; g__unidentified; s__unidentified
+2c32a8bae40078e42b94ae5b50702594	0	2	36	224	0	52	95	44	0	85	97	0	0	0	0	0	0	0	0	31	45	0	24	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+4f56a01c8cb0619d0e066795454191f2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Mycena
+d228efded54a359bee55c8a7b07d73a9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	117	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Irpicaceae; g__Ceriporia
+264fd833984b8a1ec0c4c7baebff7b91	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Teichosporaceae; g__Teichospora
+5efe4e8b43f6d7e78973d66b54dfd710	0	0	218	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales
+e9bd03a8f9538806325799aec5d64ade	0	0	0	0	0	0	0	15	0	12	0	0	0	0	0	0	0	0	14	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__unidentified; g__unidentified; s__unidentified
+da9c0d245a183e6280f0c170cac2aa2c	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	260	0	0	87	208	167	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+0843422d1e5bdb5442d3e46fe99cde23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	17	4	k__Fungi; p__Ascomycota; c__Sordariomycetes
+4ec68820f574fc6c8edee1cd5f19d799	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales; f__Sebacinaceae
+00d93b5dff017e6251435419f8ab229e	0	0	0	0	90	0	135	154	0	9	17	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae
+6f680993505449efffd38ee001c6cd57	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	17	37	236	0	28	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Phaeomoniellales
+83ad85082490f1476162092159833147	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__unidentified; g__unidentified; s__unidentified
+aa4d9e525a16ee0a6291b22281582f11	0	0	0	18	0	174	0	0	0	99	62	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Rozellomycota; c__Rozellomycotina_cls_Incertae_sedis; o__GS08; f__unidentified; g__unidentified; s__unidentified
+0a960f0360c96efb56f456328a1f6da6	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales; f__Botryosphaeriaceae; g__Diplodia
+a896c077f9dfad4803846f8d84bdaae3	0	0	0	0	0	12	0	0	7	6	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+681c774a5d0edd95347f228d851dbcfe	0	0	0	0	0	10	78	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Gomphales; f__Gomphaceae
+0e61d8e3c2cc9f8dead881f9701549bf	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+c84b18c3cca342daec582c0ef5755f14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+7b16707d790fe8901916756102f67e5f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__unidentified
+5e5fc02bb9547befc5e43c7a00416f02	0	0	0	0	0	0	0	0	0	0	5492	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Schizoporaceae; g__Hyphodontia
+1a71a5238a8131926f2b72a890790d3d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	256	24	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Tubeufiales; f__Tubeufiaceae
+899b6986e5446aaa7ecf31772ac5cd98	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+5fc38916d97237fc11c12b028e4daa70	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	17	49	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma
+26e2b2ecf2e26a9e060a20d1772fac99	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Microascales; f__Microascaceae; g__Cephalotrichum
+cdff04b77411db7c1543104c77a7b8e3	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	18	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+5a61e3f2825dd3d26344ca94f7e050bb	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Ophiocordycipitaceae; g__Tolypocladium
+d8ffd0f87327b20f6ed5879e04ef6430	0	0	0	0	0	15	0	53	0	0	0	0	0	0	0	0	0	50	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Ophiocordycipitaceae; g__Tolypocladium
+25485c39e9f2f2a2beccdbb75225df4b	0	0	0	0	0	0	0	63	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Ceratobasidiaceae; g__unidentified; s__unidentified
+5e78ffa98971991cd760c58134a98a5d	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+780f2df43e0927d6016a352f11ed2876	0	0	0	0	0	0	34	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+a337eaeaa7fe268513471841e39ac49c	0	0	0	0	0	14	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium
+e20bf1048f02f2e4289f783ff19e5f04	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	127	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__unidentified
+c39336dbf3b798bfc8a4b1b4230ce5bb	0	0	0	0	0	77	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Geastrales; f__Geastraceae; g__Geastrum
+e4c17f648aa73a66722db8efec598cb9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	87	0	0	54	79	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales
+c9b390f176b64764259ea7e0fed343dd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+a3ed4c5f3f05a8bf751c6cf0f3c299f3	0	0	0	0	0	85	0	6	0	0	0	7	89	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales; f__Harknessiaceae; g__Harknessia
+b4073eea593e387096ceb81ea6f0f9ab	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	208	10	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+103ea026f8e3f71fb5b45898abaaba57	0	0	0	0	0	0	0	268	0	0	0	0	0	0	0	0	0	2	0	0	0	211	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Melanoleuca
+f32b89ded4b503a44e938c1a9f3f86b0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	k__Fungi; p__Basidiobolomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+fafc4d98d56f4738c2d58a919932d00d	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes
+47ebeab2278a18ea27e9d60c4775d77e	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Chytridiomycota; c__Rhizophlyctidomycetes; o__Rhizophlyctidales; f__Rhizophlyctidaceae; g__Rhizophlyctis
+1c2fe87be59fa5ed11389ddc497ef6f5	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreales_fam_Incertae_sedis
+565af44463141d0db0c4ec474ae3f33b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	84	0	0	0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__GS36; f__unidentified; g__unidentified; s__unidentified
+ecbccee75a62ce50c25c6f7cd15e1457	0	0	0	0	0	47	0	24	0	506	47	0	0	0	0	0	0	0	0	66	0	100	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__unidentified; g__unidentified; s__unidentified
+a574624b711877c6df73d74a58368371	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Psathyrella
+7228ab48e2739e5f66c9f24b160bb6e8	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+b95241282eb46a7442f7c3d558dbe111	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales; f__Valsaceae; g__Cytospora
+cbcb4d218712f54cea606c24aa2412c2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__unidentified
+27684b87ca57d43f288729beb397d546	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Microbotryomycetes_ord_Incertae_sedis; f__Chrysozymaceae; g__Oberwinklerozyma
+4af9a1d481aac918f77b658d8897f57f	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+5c13199753e6eb6024f1e4107f5e3ff5	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Rhinocladiella; s__unidentified
+eb767541fa47d1773a42b14bcc514aa1	0	0	0	0	0	41	100	127	47	405	224	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+9b331e1eb4817d3cb473b529eb614085	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	235	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__unidentified
+6f269578cbaaa92a3264f2daed1a9ae1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+6fc75b240fb8186580ae6a746926cfd5	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+e3b181433de2960f7e571340383b18cc	0	0	0	0	0	371	0	241	438	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+3665a9b4db90e319ad9f4132e03a028e	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	5	0	0	11	0	7	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+6d5261a4aabc3cc593903960a84fc5d6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+dda68725ee865c03fc2fae339e1a91f8	0	0	0	0	0	0	0	0	0	60	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+eeedd99f4a0ce4e4236088bf144c4793	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Chytridiomycota; c__Rhizophydiomycetes; o__Rhizophydiales; f__Rhizophydiaceae; g__Rhizophydium; s__unidentified
+22807c4db7295816b73fd0ec25b9da3b	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	15	21	0	13	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+da3f9b3ec537f3c7ec701b4e1338ca15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	2	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+7cd79cc84ae03b2e3fcb4f937f66816a	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Rhinocladiella; s__unidentified
+a8c2c9abebf863bc4fec56049bc6baac	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	229	77	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__unidentified; g__unidentified; s__unidentified
+ee9cb126f3b034310eae41408c3437ef	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Rozellomycota; c__Rozellomycotina_cls_Incertae_sedis; o__GS08; f__unidentified; g__unidentified; s__unidentified
+de0bc12adf4705949bbdf17851f1e3bb	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Ophiocordycipitaceae
+08a203ee93c4fe4d72b0fbcd4a6c6e9d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__Rhizophagus
+9781425cc5fc8f03dd703a86dcc3a731	0	0	0	0	0	0	0	271	380	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi
+e9ce4bd4bfd49220879af3afb20e9e81	0	0	0	67	0	112	139	177	47	98	321	0	0	0	0	0	0	0	122	0	0	0	0	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+0b3a30b6d0a34ecb3079fd94536cb6bf	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleribasidiaceae; g__Derxomyces
+dcbc93b10e1038a8d62f963b5cfb5a6f	0	0	0	0	0	179	0	0	206	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales
+db4d6b3c29df3a957906f694ee28121d	0	0	0	0	0	0	0	252	13	202	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+b873834e32856f6a779ad553d1797273	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Ceratobasidiaceae
+0246448722d671b8c49e6da617178e0e	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	75	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Steccherinaceae; g__Steccherinum
+ab7d2ec4dd1b25aa99755f05ee855cf1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales
+be6eaa37f3560d7410f418d138a8dcce	0	0	0	0	0	0	0	0	0	133	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+472e5b0b941da76c90418f59270f9f86	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae
+58a116835ef5ab778b1aed41c80de750	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Hypomyces
+b4f15585daada3df523e878aead012ec	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+597967a736ee435e1cebefb283dc3d29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	244	3	0	0	k__Fungi
+b30ae76cf3b6c27c2ddbe9b630fd2379	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+075650f7eef4bf942bec52c31d805c77	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	112	10	197	3	865	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Chaetosphaeriales; f__Chaetosphaeriaceae
+3553110468074fbb627348d17a0849bc	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	78	676	142	118	5	116	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Mycena
+3c47aecfeab56d0e84718abb02fc6c9a	0	0	0	0	0	536	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Morchellaceae; g__Verpa
+7f89b8ca840c818c03d3525b0cfe7210	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Trichosporonales; f__Trichosporonaceae; g__Apiotrichum
+88aeab7e395c35ca206a9389ea56b8ec	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	16	0	0	0	k__Fungi; p__Rozellomycota
+e0ff0e5f448a0ed605a6f0bec646f5d6	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+eae1b14b65327c3b9700a6da7d7d2961	0	0	77	0	0	49	1088	39	0	20	0	0	0	0	0	0	0	110	44	40	0	164	24	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+3b7f1a8a37a11fc55e07c9a90d2eff5b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+9c7edb487769d2e129e9f07e83b74504	0	0	0	0	0	21	1285	546	473	431	294	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Venturiaceae
+dc8394cc93eaf5508811a0752e84bd76	0	0	0	0	0	3	4	0	0	4	0	0	0	0	0	0	0	0	0	2	0	0	0	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+9490b5b73316413fe4fc1fd4c08c9808	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	3	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Microthyriales; f__Microthyriaceae; g__Neoanungitea
+1e1ab7da9875c85417bbd3319b3efc3d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Glomerellaceae; g__Colletotrichum
+91d1c4146286672feb612ae37ed79ac5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	134	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Trechisporales; f__Hydnodontaceae; g__Subulicystidium
+f513f7dfdfab63694a1c44b25b92c007	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+9a3dbedfb762b40523132648623c4766	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	59	0	0	8	7	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Myxotrichaceae
+77f9ff197273cad9bd79e6b87fddee7a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+ada785238754fa48a6f52eeef8705983	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cuniculitremaceae; g__Kockovaella
+8c219d76821f5a55288f990964cfb7e8	0	0	0	0	0	0	0	265	118	20	84	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Neodevriesiaceae; g__Neodevriesia
+62e71d407ec7c21b79dc1ee809f74975	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Rhynchogastremataceae; g__Papiliotrema
+737900c2dc664304a1ec58e02a408fa4	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales
+659661e9e23cd5d44590ef085a5a63b0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+c69d04251f8dc239ab52d6bd48e3eb7a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	0	45	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae
+7b1f7709969c6529834a58f3492c37f5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	k__Fungi; p__Chytridiomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+070bccb909560ae195c61599c1a390a7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Glomerellaceae; g__Colletotrichum
+2ec832906a372936bef03646ee1bb3dd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	k__Fungi; p__Chytridiomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+ef16b35dd518ff212260966f38c90b46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13847	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Bolbitiaceae
+c3c1651516a1b00fd5a901017dab823c	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	305	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+d45752e01c99d426d86d9f2eff5b8b01	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	9	167	22	148	87	5431	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Lasiosphaeriaceae
+313711569d1297cbd47976e160f346de	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+2ffc86e066d1f0973a5b4f3e146cd17d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	492	43	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+1d98f3f15b6791bc37f19db3ebf804db	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	183	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes
+4f70c0d6d195858e372b9feab8a4c2f2	0	0	0	0	0	13	0	0	25	13	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+68996c1d3211bebdbe9ef4b58a0da8d5	0	0	0	118	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+8cedb9978018f26c1d9f03c79a0d2d22	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+c7ba49465d089dd6724571678746f396	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Cladophialophora
+3b926dea268570bd1f319f7d3133343f	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+5349a853f4a467227bd1711e2ba68c81	0	0	0	0	122	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Meruliaceae; g__Scopuloides
+74e4968694d14eba8ed8fd1c4c228332	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+ec42a4ced62260aa936c1939f96b7fae	0	0	0	107	0	0	0	0	31	135	24	0	0	0	0	0	0	0	43	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Cordycipitaceae; g__Simplicillium
+5859495cbdae498fab8e3ccc260bd81e	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales
+597136c3f77a0aea1faac3652fe3e280	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Pluteaceae; g__Pluteus; s__unidentified
+beda32b139f7cb5ef22e933ef2dea034	0	0	0	0	0	0	0	86	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Tremellodendropsidales; f__unidentified; g__unidentified; s__unidentified
+3203b75542b50f7eac33440d92d8121b	0	0	8	114	110	0	0	0	0	0	0	0	0	0	0	0	0	160	0	0	26	43	10	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma
+90e8fa564e0532463927d120a274484d	0	0	0	0	0	32	0	0	0	1	5	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+0865b260d3c7892aef4661007a57b2d0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+13c3c9d92793e2dd3aed36b884b761fd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	4	0	134	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariales_fam_Incertae_sedis
+a57466db319e2598bf16e77a6c32f51e	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	93	182	125	0	126	181	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales
+d21b921bbca2967eee416f2a9c5b6f07	0	0	0	0	0	22	0	0	0	0	114	0	0	0	0	0	0	0	0	264	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma
+1a9317d834f6ecb43a25d620942fe8f2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	77	74	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+50b720e06721df469880fdbd2c2d2128	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+b977d87f063c513f89d96fb42a94186d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Ramalinaceae; g__Ramalina
+e980b0ac68efec8200ae05bfb479b9c6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	72	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae
+f06925573b96aaf714db8b80e230b259	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+5ac0836f7bfc4944d868d71ade911070	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales
+741aee4c27ddc82a6eb2ebbb5e34a8e4	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	38	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+38321c6f7b12ed82cc3ab4df3b95d435	0	0	0	0	0	6	0	0	55	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Microbotryomycetes_ord_Incertae_sedis; f__Chrysozymaceae
+af2ee73dd68b71c512f54b7bafbfaab9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	70	0	0	104	74	106	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+6980c4b756e57d5c165df3d30716d9ae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+0c893c7a060cf0f1df32aa22fb387bdc	1	0	0	0	0	0	0	0	0	167	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Rozellomycota; c__Rozellomycotina_cls_Incertae_sedis; o__GS11; f__unidentified; g__unidentified; s__unidentified
+16aeab4dca92b24b81e4e379362b2b71	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Hydnangiaceae; g__Laccaria; s__unidentified
+260e53195efafc47492621df2d26a7b9	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+03de46aeac8a5a4ca097b24268b9a861	0	0	0	0	0	14	45	15	0	49	19	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+61804354c24a952d3c0d40e6bba6ac31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	203	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Glomerellaceae
+479c40874e2a4e278bc1a4b6dc0d3cd6	0	0	0	0	0	0	0	0	0	23	24	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+11cd26a9ba762dc7e80d1187053d0822	0	0	0	0	0	599	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pyronemataceae
+b2df9aebae6f668e47f0f41451b9eaae	0	0	0	0	0	742	2924	1483	4080	2930	874	0	0	0	0	0	0	2	153	238	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales; f__unidentified; g__unidentified; s__unidentified
+c460ac56fddf8c4fc2a7b1c8b86cddbb	0	0	0	0	0	0	0	341	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Lasiosphaeriaceae
+e716b0d4e29c45d3078c05b74c39925e	0	0	0	0	0	157	0	318	30	39	40	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+d612183ec3b6985415e7fec3761bf697	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+f7663adf5ff0bb58a52f5686a8867141	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+9b0c696555d8a8486999b652bfd9afd3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+e79197a7e9100cde77de7c8f95c6f957	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+c74e4aa25e7e0ea459960aba3edf9ffc	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+a46569b2e3babded72a392968958c9eb	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	k__Fungi; p__Mucoromycota; c__Umbelopsidomycetes; o__Umbelopsidales; f__Umbelopsidaceae; g__Umbelopsis
+b8e2af7e469cc9fb525f77c35f9e8bf7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	14	k__Fungi; p__Ascomycota; c__Eurotiomycetes
+33b21dbd8685a4174c0d1ee76f9d2e14	0	0	0	0	0	217	0	0	0	0	75	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+88cfa3de4c5d457c1bcd2a756364545a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	59	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Ophiocordycipitaceae; g__Hirsutella
+97244e1364de55c47056ce52d69ab12e	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	k__Fungi; p__Mucoromycota; c__Umbelopsidomycetes; o__Umbelopsidales; f__Umbelopsidaceae; g__Umbelopsis
+f4062c8e8e2d745c77308916320a479c	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Agaricaceae; g__Agaricus
+4674a4a800a0108e93f70b8948a05bca	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	111	19	0	17	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Tremellodendropsidales; f__unidentified; g__unidentified; s__unidentified
+c0d5105f4ef444baaad16907078bb2e4	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Lecanoromycetes
+f0f21da1642f09518abe2c0af220e0cb	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+7b4d625826c336d8bf29be346dd551da	0	0	0	0	0	70	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+d96f5f19f835be62bbb67f2b852e0895	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	234	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+6b1c8a91741e173de4c8e3a5ee6cb78b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+b63249887881ceb69da4c6257d572769	0	0	0	0	51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Saccharomycetes; o__Saccharomycetales; f__Metschnikowiaceae; g__Kodamaea; s__Kodamaea_ohmeri
+4351173a86e7fd05fdf8c89634126bf0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	k__Fungi; p__Ascomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+d3c049bcf153a7367c8c3fd25a964841	0	0	0	0	0	10	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Trichosphaeriales; f__Trichosphaeriaceae; g__Nigrospora
+0c3010048406da008e2498bc08f1f941	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	25	0	13	0	5	k__Fungi; p__Ascomycota
+f2d9849771625cb531e158cc0526d09c	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+a7ebc9675ce2365b4111869007f2c0ef	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	7	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+634adb2c4ac5ec14cc26149331fa68b2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	36	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+713f473451bde3a4e3e6c73bdb614a15	0	0	0	0	0	552	343	349	598	28	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+71f5a10edfebe211a47cef36d162d72a	0	0	0	0	0	0	46	0	22	0	0	0	0	0	0	0	0	0	0	0	41	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Chaetomiaceae
+7d75fa71f90a2c7a770cc99f23123fb5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	195	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+9f74294d97aa13d6781b4a9f04dc2c2e	0	0	0	0	0	154	0	54	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+9a2e60ef9130378e59d3380925b320f6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Chaetosphaeriales; f__Chaetosphaeriaceae
+f147613d60e90903395bb257e46f6b00	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleribasidiaceae; g__Vishniacozyma
+7df60fdfd586b078fed5bb0271d9fc92	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	169	0	101	11	0	k__Fungi; p__Ascomycota; c__Leotiomycetes
+6d3e9f891521350e8e2d7170138f9660	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreales_fam_Incertae_sedis; g__Sarocladium
+dfd20da5aa5ccc71b910c51460fd19f8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	107	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Onygenales; f__Gymnoascaceae; g__Leucothecium; s__unidentified
+e465216c255010b736173584c51c8df7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__unidentified; g__unidentified; s__unidentified
+a8b11e8ea728fe393094145759830723	0	0	0	0	0	16	0	5	0	19	0	0	0	0	0	0	0	0	0	0	0	0	1	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__unidentified; g__unidentified; s__unidentified
+023477cbcd42dae82aad76519828a7da	0	0	0	0	0	16	46	0	433	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+222ed54f65f99dc22b289d0d3cacd467	0	0	0	0	0	202	92	135	0	76	37	0	0	0	0	0	0	0	142	27	68	0	14	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+6af1dc67ce1eb94aa93faf471fb23219	0	0	0	0	0	4	0	0	0	11	22	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Chytridiomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+409a5d5c695fe57a644c9d4b7172bdbe	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Boletales; f__Hygrophoropsidaceae; g__Hygrophoropsis
+cb67bc56e52be5230a97544d653f693f	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae
+6a30115528b154044431beed9ac07780	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	k__Fungi; p__Ascomycota
+399b66e8f64ce5bfdd2ddaf2c096c3c3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	0	2	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+220f564040edfcf67b0e80514a870eb6	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+cead2e3e8db2f9abd2baebf5421b908e	0	0	0	0	0	0	0	0	0	2	15	0	0	0	0	0	0	0	0	0	0	0	4	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+004c1cc6d5b9ea289526f319048dd5b8	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Phanerochaetaceae; g__Phlebiopsis
+13a2505b6b02416a75307175915c934a	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+fa68ed49b7bfe7c762de62bf839d2444	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+e967ec1331a2f935b9121dd52be37a35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	139	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Trechisporales; f__Hydnodontaceae; g__Trechispora; s__unidentified
+37f73891c60df92b13606b8678efcaf2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales
+b78bd3453a1bf5c7ecf23b12b0a12bb2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	156	76	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+02566a93ef9c73ef18591c895ba74ec0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+099d615af628e80bec0598afbd3b1a1d	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Ophiocordycipitaceae; g__Tolypocladium
+6203a381f27a6ed493a40bc5e599ecb5	0	0	0	0	0	174	330	412	647	474	532	0	0	0	0	0	0	0	24	0	0	0	0	k__Fungi; p__Ascomycota
+f0405cb199a2119eb29c5f0737de251f	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+b7b183e2bafc91bb8fc77464dc10f43b	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+0b695bbadab8a2f0d6c9fe88721728f9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	185	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+892890885b7fbd1465dcda88cc604de1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+b552b55547f8d4ebeb420efd5c625f83	0	0	7	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	15	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes
+939442707a432026d750594a60e90ff0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__unidentified; g__unidentified; s__unidentified
+312c2363665947c2176fa90e85ebb537	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales; f__Sebacinaceae; g__Chaetospermum; s__unidentified
+4d45a879b2d1dcfcb471591d05c678cf	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Lachnocladiaceae; g__Dichostereum
+8c9e2f3e308a0942a028aa155500b9ef	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	221	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Pluteaceae; g__Pluteus
+bc82c51b970bac41844311ce3327affd	0	0	0	0	0	0	0	0	0	34	0	0	30	0	0	0	0	0	82	31	106	0	41	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Cordycipitaceae
+f2ad64b808e08a1b20fcce8e2bf410c8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pyronemataceae
+cd3a647b9b9fa231e063b514802b0c8c	0	0	0	52	0	0	652	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+e3dd2e80b2ad8f56de68540cdb23a2db	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	3	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+65f18779352b4e89a771f39e6e620fc6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Ophiostomatales; f__Ophiostomataceae; g__Sporothrix
+0da87c0e0f88d8ca755bd51e8bc70610	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+24b5dc5dcc125cffb566d70e224503a3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+84868a3b2a1618f19ffdda0b54a425a6	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Agaricaceae; g__unidentified; s__unidentified
+ba179e8edd30e0d507f2d3802c5e20c5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	13	33	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+8e2ddd9f144b9abab090e6d542a505ff	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	68	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__unidentified; g__unidentified; s__unidentified
+f8badb3a48ede5ec4f35dbd3a3e75f64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	k__Fungi; p__Basidiomycota
+9d4709c1849cfedaabfe1fcc036ff320	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Coprinellus
+888b299c3b4f057ad8fadfa21e0d8d2f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Hyaloscyphaceae
+aa5cb4d06868b307954bcf41fcb7db0b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3233	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales
+32bdb8fc25fe63123be8d26fc7d7ff7f	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	3	0	5	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+e8d1685de200079e3000a6542c1a4c96	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+5ed663614e903a8f987b5c7ea3a70829	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	37	28	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+ed1591d7c4fdcc2c99a279ff45846dfa	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pyronemataceae
+f7613bf0121adf8714ba311151fe3492	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	6	0	0	242	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae
+6b53b2760ee0bb11105c94b2195ef3c4	0	0	0	0	0	0	0	66	0	0	80	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__unidentified; g__unidentified; s__unidentified
+1ff23191026f140875e817a7f886532b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__unidentified
+2935f14b61b0c3f219a516c5912de3a5	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	187	0	166	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+c749be273ca19f4ffacc0ebf0dbdacd1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	2	0	0	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Exobasidiales; f__Exobasidiaceae; g__Exobasidium
+c3f1a08c57c97e6b54022f995ffde0ad	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Atheliales
+e536febdf0e409d4b6b1f73dc5d133c2	0	0	0	0	0	0	0	6	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Cordycipitaceae
+c98d3425ee52d088b324cc73d70145fe	0	0	0	0	0	0	0	9	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Venturiaceae
+b3b1d0f2c015d493731ac6be60576178	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	174	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+c2c793d8acf62a344cbd185c0fa713ae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	74	0	0	k__Fungi; p__Ascomycota
+8490fe91ad77ba0b9ec9e025e8c88525	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+b182fbfcf866e4451ce79ec63fb399e4	0	0	0	0	0	128	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+28a3b5dd08a874ee6073e0efb282e163	0	0	0	145	53	0	0	0	0	0	0	0	39	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+34da25e7d597e107fa410b367b803c77	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	67	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+305e4a3693bc4620131c25a0808ae50f	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pezizaceae; g__Ruhlandiella; s__unidentified
+705d914b24a054eddf0d96e4da12e8bf	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae
+e10666f047afb874b71cc4499f6fece9	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Sporormiaceae
+0a40cf99eef3fb1d7132ce3e259ed387	0	0	0	0	0	7	0	193	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales
+20db14f36bb072d534f2d6d30e27dca7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Trichosporonales; f__Trichosporonaceae
+5322711e063db9b2916c29060b6eac04	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Mycena; s__unidentified
+abaa06b0a70428cb23a445e723c952af	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	65	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales; f__Serendipitaceae; g__Serendipita; s__unidentified
+436fe98e8ab2e17b841cb9eb6bb455be	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	9	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Pleurotaceae; g__Hohenbuehelia
+af2e74f40e498a190a9d56bcae10d32f	0	0	0	0	0	1222	388	594	296	369	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales
+34619f5a376c20f8abdb466046da8627	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+5d0236b71bd99bb252d443be56529286	0	0	0	0	0	0	71	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__unidentified; g__unidentified; s__unidentified
+e0f026354ada4e4eac905d48cb2655dd	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales
+e9012ef5d7b0004736a996cfda477a1d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+561308ee0d75b1e9c81ba9dbb367c8e6	0	0	0	0	0	2	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__unidentified
+ac966746a629cd68593af39744ea75c9	0	0	0	0	0	5	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Mucoromycota; c__Umbelopsidomycetes; o__Umbelopsidales; f__Umbelopsidaceae; g__Umbelopsis
+8eb191d47590d5c3dd973165e7d9cecd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	390	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__unidentified; g__unidentified; s__unidentified
+b1bbcf3d1387e710ea29341aae469959	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	k__Fungi; p__unidentified; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+c89c61f8faad4cbcf3a551207d1f1fd6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	173	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Pluteaceae; g__Pluteus
+c9373e6dc366759140c99359bbb5ab8b	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	67	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+e99ea7324369a686b2ef12a5c7353865	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Sarcosomataceae
+599b30a3d54224c1005d8abc355d848a	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	81	0	0	31	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+553fa1c05d5e8c131449f9cc5236ccc2	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	10	48	112	59	0	5	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Ophiostomatales; f__Ophiostomataceae; g__Sporothrix
+32b37f1342027acc651eb8b44b9023c1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+3e315de76c8a0c9f4f88a73f0733ec64	0	0	0	0	0	24	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+c054d778bc0ae87fcda94b771e9ed629	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	503	0	1218	191	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+19124a60cbc72fda8bde65ac2a3b700e	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	155	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+058faf01df4ee39254110e8e5cc62345	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	145	218	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Cladophialophora; s__unidentified
+d7047e8db7989ba3b6c02505e611523c	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	218	594	136	134	0	14	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Venturiaceae; g__unidentified; s__unidentified
+cb872684ff8a5533fc728440e56509bb	0	0	0	0	0	0	0	0	0	77	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Mycena
+c40ca2ef597a8c8cec759f6f591bc07d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	6	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Cordycipitaceae; g__Lecanicillium
+f9ec64f584c6ce1fb5691bee7bc296b8	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	4	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Leucopaxillus
+964bd24433fc59f75eb02dea267b1bb7	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Teratosphaeriaceae
+31407d726f83e48b729e5a351c81682c	0	0	0	0	0	0	28	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+14b76c0fbc974e60e58c02bb0992c1cb	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+9d9506ef446a86490fdea1c2c932eecb	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	63	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Hyaloscyphaceae
+7423c4c216ee8b1659018092121fd263	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	2	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales
+886dd7e9bbf29253e3d265922a61b427	0	0	0	0	0	0	40	20	0	45	0	0	0	0	0	0	0	0	0	0	0	17	19	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+4f56a73f1a486602cb7651f11a50a8f8	0	0	0	0	0	0	33	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales
+1cde9b41353a41b0c34f3df76aa3de64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	208	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Agaricaceae; g__Cystolepiota
+fdc3ed0504799618f83e0cb8a96b05c9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__unidentified; g__unidentified; s__unidentified
+685dd9fa5bbafb268d61ccb6a60fcc69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+634c3bee239b67c5e814291a14c32025	0	0	0	0	0	0	17	247	0	359	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+935e3b7fb79eaeaf130a747f6ceeb1ed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+49368580d5e7f645166d1b2869e71e18	0	0	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Saccharomycetes; o__Saccharomycetales
+5023d3d5f03cb25c5a002c9cd62b6b99	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	38	68	3	0	0	k__Fungi; p__Chytridiomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+24d24b37833675c146f95e172c79eb48	0	0	0	0	0	0	0	453	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales; f__unidentified; g__unidentified; s__unidentified
+5bf76739765dbf12edf1d5c61fe301b1	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales
+5b1cded8a0e3dfda282a3ef73900884a	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+cdaed70a54ac1bcd38234c239c5dcd32	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae
+5b9119afddbf29297a47eb9a61330c57	0	0	0	0	0	117	0	2	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota
+c1d36ea2cb0c183e0573acdcd5a06724	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	249	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+72fab7d4b753fa5c4eea8770040da7bd	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Trechisporales
+f71279db6f5b60528fd84c27024fc6df	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+de857e2dceec5d1fdcb2deb35e166f1c	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Psathyrella
+e5946d3cc587e970b3f60aa9ca764dd0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	53	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Tremellodendropsidales; f__unidentified; g__unidentified; s__unidentified
+138a75510d32231283feb00433dc63ae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Mycena
+223157ffe0c27837c87c9b377f623e7d	0	0	0	0	0	0	0	0	0	82	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Pyronemataceae
+af47a40aabd0bb7d48c5bcd8cf56173b	0	0	0	0	0	0	0	63	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+84304f331de51f63f2045f0de3e45b99	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	428	234	0	k__Fungi; p__Basidiomycota; c__Atractiellomycetes; o__Atractiellales; f__unidentified; g__unidentified; s__unidentified
+a54856d68aa6e74bcbb322dc4e5cc963	0	0	0	0	0	0	0	0	0	17	0	0	0	0	21	0	0	0	0	0	0	81	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+78089e9727e333646bf92206c66246e8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	142	0	945	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales
+390fa19ee25face9d0c48b515210afc0	0	0	0	0	0	221	336	37	10	94	13	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Rozellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+c436d4755cb0c3b927ad117b27632c84	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	298	16	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Chaetomellaceae
+5423f7182b9ffa8afd1f8c6ffcfcfd8d	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	183	15	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__unidentified; g__unidentified; s__unidentified

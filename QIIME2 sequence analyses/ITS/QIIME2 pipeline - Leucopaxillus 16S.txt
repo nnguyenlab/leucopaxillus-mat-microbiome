@@ -1,0 +1,432 @@
+NGUYEN LAB AMPLICON ANALYSIS PIPELINE WITH QIIME2
+Version 2.4
+Analysis started 5/24/22
+Working directory: /Volumes/GoogleDrive/Shared\ drives/Research/active_projects/mat_bacteria/Leucopaxillus_mat/analyses/Communities/ITS
+
+#################################################################################
+CREATE A QIIME METADATA FILE
+#################################################################################
+#The QIIME metadata file is a tab-delimited file that contains the necessary information regarding your experimental data.
+#It is necessary for processing raw reads and perform basic analyses.
+#At least the following columns are required; other specific data columns will help you later on in various statistical analyses:
+
+#SampleID	BarcodeSequence		LinkerPrimerSequence	Treatment	Description
+Heated40C.1	CGTACGATAAGTCGAG	NA						+40C		Something
+
+#Use Keemei (plugin) to validate your metadata file in Google Sheets. Make sure that it is error free before going forward!
+https://keemei.qiime2.org/
+
+#################################################################################
+IMPORT DATA INTO QIIME2
+#################################################################################
+#ACTIVATE the latest environment that QIIME2 was installed in
+#You can list all discoverable environments with 'conda info --envs'.
+source activate qiime2-2021.11
+
+----------------------------
+#IMPORT DEMULTIPLEXED DATA
+----------------------------
+#In this dataset, the files have already been demultiplexed so I am importing only the samples relevant to this project and will run quality control only on this subset of the data.
+
+qiime tools import \
+  --type 'SampleData[PairedEndSequencesWithQuality]' \
+  --input-path manifest-NN17-leucopax.csv \
+  --input-format PairedEndFastqManifestPhred33 \
+  --output-path imported-paired-end-seqs.qza
+
+#CREATE a summary of demultiplexed data
+qiime demux summarize \
+  --i-data imported-paired-end-seqs.qza \
+  --o-visualization demux.qzv
+
+#VIEW the summary file and determine the quality of the sequences
+qiime tools view demux.qzv
+
+#################################################################################
+SEQUENCE QUALITY FILTER & DENOISE
+#################################################################################
+#FILTER sequences (quality filtering) using DADA2
+#--p-n-reads-learn default [1M seqs = 250Mb]; Adjust this value to correspond to your data. If your data has < 10M seqs, use the default.
+#--p-n-threads 0 = use all available cores
+#I decided not to trim the primers here and see what happens...
+
+qiime dada2 denoise-paired \
+  --i-demultiplexed-seqs imported-paired-end-seqs.qza \
+  --p-trim-left-f 5 \
+  --p-trunc-len-f 254 \
+  --p-trim-left-r 5 \
+  --p-trunc-len-r 201 \
+  --o-representative-sequences rep-seqs.qza \
+  --o-table table.qza \
+  --o-denoising-stats denoising-stats.qza \
+  --p-n-threads 0 
+
+#TABULATE the denoising statistics
+qiime metadata tabulate \
+  --m-input-file denoising-stats.qza \
+  --o-visualization denoising-stats.qzv
+
+#VIEW denoising stats; if there is a huge drop in your sequences after pairing, reconsider sequence trimming criteria.
+qiime tools view denoising-stats.qzv
+
+#SUMMARIZE and view summaries of the FeatureTable (OTU table) and FeatureData (representative seqs)
+qiime feature-table summarize \
+  --i-table table.qza \
+  --o-visualization table.qzv \
+  --m-sample-metadata-file metadata-leucopax.txt
+
+#VIEW feature table summaries
+qiime tools view table.qzv
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+RESULTS: 
+- 26 samples sequenced
+- 1,878 ASV (Leucopaxillus only)
+- 1,001,151 sequences passed quality filters
+- The samples sequenced well:
+		Lowest sample frequency is F349 with 8500 sequences, next jump is 20,611
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#################################################################################
+CLUSTER OTU
+#################################################################################
+#CLUSTER OTUs by using vsearch de novo
+qiime vsearch cluster-features-de-novo \
+  --i-table table.qza  \
+  --i-sequences rep-seqs.qza \
+  --p-perc-identity 0.97 \
+  --o-clustered-table table-clustered.qza \
+  --o-clustered-sequences rep-seqs-clustered.qza
+
+#SUMMARIZE and view summaries of the FeatureTable (OTU table) and FeatureData (representative seqs)
+qiime feature-table summarize \
+  --i-table table-clustered.qza \
+  --m-sample-metadata-file metadata-leucopax.txt \
+  --o-visualization table-clustered.qzv
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+RESULTS: 
+- Clustering reduced samples to 1,132 97% OTUs
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#################################################################################
+ASSIGN TAXONOMY
+#################################################################################
+#USE the classifier trained on the latest UNITE database(v8.3)  with mock community
+qiime feature-classifier classify-sklearn \
+  --i-classifier /Volumes/GoogleDrive/Shared\ drives/Research/bioinformatics/classifier/UNITE-ver8_dynamic_s_10.05.2021_dev+mock-classifier.qza \
+  --i-reads rep-seqs-clustered.qza \
+  --o-classification taxonomy.qza
+
+#CREATE a barplot and determine whether the clustering % was enough to capture species level OTUs.
+qiime taxa barplot \
+  --i-table table-clustered.qza \
+  --i-taxonomy taxonomy.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-visualization taxa-bar-plots.qzv
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+RESULTS: 
+- All OTUs are Fungi
+- Classifier did a terrible job. It usually does when the diversity within a sample is low.
+- Using VSEARCH consensus instead
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#Using VSEARCH instead. The files with mock communities seem to have issues so I using database without mocks for now.
+qiime feature-classifier classify-consensus-vsearch \
+  --i-query rep-seqs-clustered.qza \
+  --i-reference-reads /Volumes/GoogleDrive/Shared\ drives/Research/bioinformatics/classifier/sh_refs_qiime_ver8_dynamic_s_10.05.2021_dev.qza \
+  --i-reference-taxonomy /Volumes/GoogleDrive/Shared\ drives/Research/bioinformatics/classifier/sh_taxonomy_qiime_ver8_dynamic_s_10.05.2021_dev.qza \
+  --o-classification taxonomy.qza
+
+qiime taxa barplot \
+  --i-table table-clustered.qza \
+  --i-taxonomy taxonomy.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-visualization taxa-bar-plots.qzv
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+RESULTS: 
+- Removal of the mock community data resulted in some unclassified samples, especially all of the positive control, which makes sense.
+- This classifier did a much better job, producing a much better classification
+- Sample F349 seems weird because the fungal IDs are all mixed. 
+	- Sample did not sequence as well as the others (lowest). Andrew did a second PCR and it worked so it doesn't seem like major contamination from low template is an issue. 
+	- Still, not quite sure what to make of the Chlorophyllum that belonged to a different project but didn't get sequenced together with this run.
+	- 16S profile appears normal and not an outlier.
+	- I will remove this sample from downstream analyses.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#################################################################################
+QUALITY CONTROL OF ITS OTUS
+#################################################################################
+#FILTER by sequence matches based on alignment quality (e.g. 212 bases of the query sequence aligned out of 250 total bases (length/qlen = 0.85)
+#Multiple independent researchers have shown that a lot more OTUs are present at length/qlen ≤ 0.85 (perhaps due to sequence or PCR error)
+#You can create a scatter plot of length/qlen vs. number of sequences and draw a curve, the inflection point of the curve will usually fall around 0.85.
+#REMOVE any sequences that has a length/qlen ≤ 0.85, although it does depend on your dataset.
+#USE the "dynamic" version of the UNITE database that includes synthetic mock community sequences so that these are not filtered out.
+
+#COMPARE how your representative sequences sequences matched up to a database
+qiime quality-control evaluate-seqs \
+  --i-query-sequences rep-seqs-clustered.qza \
+  --i-reference-sequences /Volumes/GoogleDrive/Shared\ drives/Research/bioinformatics/classifier/sh_refs_qiime_ver8_dynamic_s_10.05.2021_dev.qza \
+  --o-visualization rep-seqs-clustered-evaluated.qzv
+  
+#VIZUALIZE the output
+qiime tools view rep-seqs-clustered-evaluated.qzv
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+RESULTS:
+- TSV output above showed that the Percent Coverage (length/qlength) is equivalent to ITS1.
+- The inflection point lies around 0.8 to 0.85, consistent with previous data for ITS1
+- I will choose 0.8 as a filtering criteria
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXCLUDE sequences that are ≤ 0.80 qlength (percent coverage)
+#This step will help remove non-biological sequences
+#We want to keep identity at 0 because we do not want to remove new species of fungi that have not been discovered
+qiime quality-control exclude-seqs \
+  --i-query-sequences rep-seqs-clustered.qza \
+  --i-reference-sequences /Volumes/GoogleDrive/Shared\ drives/Research/bioinformatics/classifier/sh_refs_qiime_ver8_dynamic_s_10.05.2021_dev.qza \
+  --p-method blast \
+  --p-perc-identity 0.0 \
+  --p-perc-query-aligned 0.80 \
+  --o-sequence-hits quality-control-hits.qza \
+  --o-sequence-misses quality-control-misses.qza
+
+#EXAMINE the quality control misses so that you can be sure that what you're going to throw out do not contain a large portion of fungal sequences.
+#You can blast the output fasta file and examine the results
+#If a lot of the sequences are legitimate, you will need to tweak the parameters in the "exclude-seqs" step above
+qiime tools export \
+  --input-path quality-control-misses.qza \
+  --output-path exported-quality-control
+
+#FILTER the main feature table so that it excludes OTUs that are considered misses
+qiime feature-table filter-features \
+  --i-table table-clustered.qza \
+  --m-metadata-file quality-control-misses.qza \
+  --p-exclude-ids \
+  --o-filtered-table table-quality-control.qza
+
+qiime feature-table summarize \
+  --i-table table-quality-control.qza \
+  --m-sample-metadata-file metadata-leucopax.txt \
+  --o-visualization table-quality-control.qzv
+
+#These filtering criteria are very strict so if you have a mock community in your dataset, you can use it to determine the best parameters for your data.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+RESULTS:
+- TSV output above showed that the Percent Coverage (length/qlength) is equivalent to ITS1.
+- The inflection point lies around 0.8 to 0.85, consistent with previous data for ITS1
+- I will choose 0.8 as a filtering criteria
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#################################################################################
+SUBSET AND FILTER SAMPLES FROM FEATURE TABLES & TAXONOMY (ITS)
+#################################################################################
+
+#FILTER & REMOVE NON-FUNGAL OTUS
+qiime taxa filter-table \
+  --i-table table-quality-control.qza \
+  --i-taxonomy taxonomy.qza \
+  --p-include k__ \
+  --p-exclude Unassigned \
+  --o-filtered-table table-fungi-only.qza
+  
+#CHECK sequences
+qiime feature-table summarize \
+  --i-table table-quality-control-fungi-only.qza \
+  --o-visualization table-fungi-only.qzv
+
+#VISUALIZE the data through a barplot
+qiime taxa barplot \
+  --i-table table-fungi-only.qza \
+  --i-taxonomy taxonomy.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-visualization taxa-bar-plots-fungi-only.qzv
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+RESULTS:
+- This step reduces a few OTUs
+- Only Fungi are kept now
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#################################################################################
+DEALING WITH CONTROLS
+#################################################################################
+
+#EXPORT taxonomy
+qiime tools export \
+  --input-path taxonomy.qza \
+  --output-path exported-taxonomy
+
+#COPY and re-name taxonomy file
+cp exported-taxonomy/taxonomy.tsv exported-taxonomy/biom-taxonomy.tsv
+
+#REPLACE the header of the biom-taxonomy table with QIIME style formatting
+#OTUID	taxonomy	confidence
+
+#Export rarefied OTU table
+qiime tools export \
+  --input-path table-fungi-only.qza \
+  --output-path exported-table
+
+#ADD metadata to the OTU table and convert it to tsv to view
+biom add-metadata \
+ -i exported-table/feature-table.biom \
+ -o exported-table/table-fungi-only-with-taxonomy.biom \
+ --observation-metadata-fp exported-taxonomy/biom-taxonomy.tsv \
+ --sc-separated taxonomy
+
+#CONVERT biom to tsv to be able to view and sort table
+biom convert \
+  -i exported-table/table-fungi-only-with-taxonomy.biom \
+  -o exported-table/table-fungi-only-with-taxonomy.tsv \
+  --to-tsv \
+  --process-obs-metadata taxonomy \
+  --header-key taxonomy
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+RESULTS:
+- The negative control had only 3 OTUs that were positive, the highest being 22 sequences. These belonged to some of the most abundant OTUs in the dataset so tag bleeding is occurring. 
+- Since these numbers are small their removal would not affect the rest of the dataset, I will simply remove the negativ control samples.
+- Positive control samples also had the same top 2 OTUs so tag bleeding is occurring. I will remove the positive control sample as well.
+	- Due to the filtering step above, all other members of the mock community was removed. I don't think this will affect the final results.
+- F349 had a fungal profile of Chlorophyllum? F352 had a profile more similar to soil
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+qiime feature-table filter-samples \
+  --i-table table-fungi-only.qza \
+  --p-where "[#SampleID] IN ('negative-leucopax-ITS','positive-leucopax-ITS','F349')" \
+  --p-exclude-ids \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-filtered-table table-filtered.qza
+
+#FILTER the main feature table so that it removes singletons
+qiime feature-table filter-features \
+  --i-table table-filtered.qza \
+  --p-min-frequency 2 \
+  --o-filtered-table table-final.qza
+  
+qiime feature-table summarize \
+  --i-table table-filtered.qza \
+  --o-visualization table-final.qzv \
+  --m-sample-metadata-file metadata-leucopax.txt 
+
+#CREATE another taxa barplot for data exploration
+qiime taxa barplot \
+  --i-table table-final.qza \
+  --i-taxonomy taxonomy.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-visualization taxa-barplot-final.qzv
+  
+#################################################################################
+ALPHA DIVERSITY METRICS
+#################################################################################
+#All samples sequenced very well so all samples could be kept at a high rarefaction number.
+#IMPORTANT there is a bug in the current QIIME version where you must rarefy -10 fewer seqs than the sample you want to keep otherwise it will be thrown out.
+
+#CREATE rarefaction curves
+qiime diversity alpha-rarefaction \
+  --i-table table-final.qza \
+  --p-max-depth 19500 \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-visualization alpha-rarefaction-19500.qzv
+
+#COMPUTE Core metrics with phylogenetic measures
+qiime diversity core-metrics \
+  --i-table table-final.qza \
+  --p-sampling-depth 19500 \
+  --m-metadata-file metadata-leucopax.txt \
+  --output-dir core-metrics-results
+
+#COMPARE certain outputs from the core metrics that you want
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity core-metrics-results/shannon_vector.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-visualization core-metrics-results/shannon-vector-group-significance.qzv
+
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity core-metrics-results/observed_features_vector.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-visualization core-metrics-results/observed-features-group-significance.qzv
+
+#SUMMARIZE the rarefied table
+qiime feature-table summarize \
+  --i-table core-metrics-results/rarefied_table.qza \
+  --o-visualization core-metrics-results/rarefied_table.qzv \
+  --m-sample-metadata-file metadata-leucopax.txt 
+
+
+#################################################################################
+COMMUNITY COMPOSITION
+#################################################################################
+qiime diversity beta-group-significance \
+  --i-distance-matrix core-metrics-results/bray_curtis_distance_matrix.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --m-metadata-column SampleType \
+  --o-visualization core-metrics-results/bray-curtis-SampleType-significance.qzv \
+  --p-pairwise
+
+qiime diversity beta-group-significance \
+  --i-distance-matrix core-metrics-results/bray_curtis_distance_matrix.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --m-metadata-column HostSampleType \
+  --o-visualization core-metrics-results/bray-curtis-HostSampleType-significance.qzv \
+  --p-pairwise
+
+#################################################################################
+ADD TAXONOMY TO OTU TABLE FOR FURTHER ANALYSES OUTSIDE OF QIIME
+#################################################################################
+#EXPORT taxonomy artifact
+qiime tools export \
+  --input-path taxonomy.qza \
+  --output-path exported-taxonomy
+
+#COPY and re-name taxonomy file
+cp exported-taxonomy/taxonomy.tsv exported-taxonomy/biom-taxonomy.tsv
+
+#REPLACE the header of the biom-taxonomy table with QIIME style formatting
+#OTUID	taxonomy	confidence
+
+#Export rarefied OTU table
+qiime tools export \
+  --input-path core-metrics-results/rarefied_table.qza \
+  --output-path exported-rarefied-table
+
+#ADD metadata to the OTU table and convert it to tsv to view
+biom add-metadata \
+ -i exported-rarefied-table/feature-table.biom \
+ -o exported-rarefied-table/feature-table-with-taxonomy.biom \
+ --observation-metadata-fp exported-taxonomy/biom-taxonomy.tsv \
+ --sc-separated taxonomy
+
+#CONVERT biom to tsv for analyses elsewhere
+biom convert \
+  -i exported-rarefied-table/feature-table-with-taxonomy.biom \
+  -o exported-rarefied-table/rarefied-table-with-taxonomy.tsv \
+  --to-tsv \
+  --process-obs-metadata taxonomy \
+  --header-key taxonomy
+
+#################################################################################
+EXPORT FILES FROM QZA FOR FURTHER ANALYSES
+#################################################################################
+#EXPORT observed OTU counts
+qiime tools export \
+  --input-path core-metrics-results/observed_features_vector.qza \
+  --output-path exported-data
+
+#RENAME the file
+mv exported-data/alpha-diversity.tsv exported-data/observed-otus.tsv
+
+++++++++++++++++++++++++++++++++++++++++
+#EXPORT Shannon values
+qiime tools export \
+  --input-path core-metrics-results/shannon_vector.qza \
+  --output-path exported-data
+
+#RENAME the file
+mv exported-data/alpha-diversity.tsv exported-data/shannon-diversity.tsv
+

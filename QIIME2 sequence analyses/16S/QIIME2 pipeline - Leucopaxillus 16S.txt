@@ -1,0 +1,487 @@
+NGUYEN LAB AMPLICON ANALYSIS PIPELINE WITH QIIME2
+Version 2.4
+Analysis started 2/23/22
+
+#################################################################################
+CREATE A QIIME METADATA FILE
+#################################################################################
+#The QIIME metadata file is a tab-delimited file that contains the necessary information regarding your experimental data.
+#It is necessary for processing raw reads and perform basic analyses.
+#At least the following columns are required; other specific data columns will help you later on in various statistical analyses:
+
+#SampleID	BarcodeSequence		LinkerPrimerSequence	Treatment	Description
+Heated40C.1	CGTACGATAAGTCGAG	NA						+40C		Something
+
+#Use Keemei (plugin) to validate your metadata file in Google Sheets. Make sure that it is error free before going forward!
+https://keemei.qiime2.org/
+
+#################################################################################
+IMPORT DATA INTO QIIME2
+#################################################################################
+#ACTIVATE the latest environment that QIIME2 was installed in
+#You can list all discoverable environments with 'conda info --envs'.
+source activate qiime2-2021.11
+
+----------------------------
+#IMPORT DEMULTIPLEXED DATA
+----------------------------
+#Sometimes demux files are stored in multiple different folders. Use a shell loop to find and move them all into one single folder to be imported into QIIME.
+
+mkdir /Volumes/GoogleDrive/Shared\ drives/Research/amplicon\ libraries/NN15/demux/
+
+find . -name "*.gz" | while read file
+ do
+   cp $file /Volumes/GoogleDrive/Shared\ drives/Research/amplicon\ libraries/NN15/demux/
+ done
+
+#CREATE a comma delimited "fastq manifest" file in order to import multiple individual files into QIIME
+#Example manifest file:
+sample-id,absolute-filepath,direction
+sample-1,$PWD/some/filepath/sample1_R1.fastq.gz,forward
+sample-1,$PWD/some/filepath/sample1_R2.fastq.gz,reverse
+sample-2,$PWD/some/filepath/sample2_R1.fastq.gz,forward
+sample-2,$PWD/some/filepath/sample2_R2.fastq.gz,reverse
+ 
+#Place manifest file into the demux folder
+cd demux
+qiime tools import \
+  --type 'SampleData[PairedEndSequencesWithQuality]' \
+  --input-path manifest_NN15.csv \
+  --input-format PairedEndFastqManifestPhred33 \
+  --output-path imported-paired-end-seqs.qza
+
+#CREATE a summary of demultiplexed data
+qiime demux summarize \
+  --i-data imported-paired-end-seqs.qza \
+  --o-visualization demux.qzv
+
+#VIEW the summary file and determine the quality of the sequences
+qiime tools view demux.qzv
+
+
+#################################################################################
+SEQUENCE QUALITY FILTER & DENOISE
+#################################################################################
+#TRIM the primers using cutadapt
+#Trimming removed pretty much all of the sequences so I will not be using this step
+
+
+#FILTER sequences (quality filtering) using DADA2
+#--p-n-reads-learn default [1M seqs = 250Mb]; this is ~10% of the demultiplexed data. Adjust this value to correspond to your data. If your data has < 10M seqs, use the default.
+#--p-n-threads 0 = use all available cores;
+
+qiime dada2 denoise-paired \
+  --i-demultiplexed-seqs imported-paired-end-seqs.qza \
+  --p-trim-left-f 5 \
+  --p-trunc-len-f 249 \
+  --p-trim-left-r 5 \
+  --p-trunc-len-r 214 \
+  --o-representative-sequences rep-seqs.qza \
+  --o-table table.qza \
+  --o-denoising-stats denoising-stats.qza \
+  --p-n-threads 0 \
+  --p-n-reads-learn 1810000 #using 10% of the demux total data
+
+#TABULATE the denoising statistics
+qiime metadata tabulate \
+  --m-input-file denoising-stats.qza \
+  --o-visualization denoising-stats.qzv
+
+#VIEW denoising stats; if there is a huge drop in your sequences after pairing, reconsider sequence trimming criteria.
+qiime tools view denoising-stats.qzv
+
+
+#SUMMARIZE and view summaries of the FeatureTable (OTU table) and FeatureData (representative seqs)
+qiime feature-table summarize \
+  --i-table table.qza \
+  --o-visualization table.qzv \
+  --m-sample-metadata-file metadata-NN15.txt
+
+#VIEW feature table summaries
+qiime tools view table.qzv
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+RESULTS: 
+- 631 samples sequenced
+- 23,656 ASV (combined Leucopaxillus mat, soil, and CKI isolates)
+- 2,655,085 sequences passed quality filters
+- The samples sequenced well:
+		Leucopaxillus samples were great with 19290 being the lowest sample.
+		Only 17 isolates failed to sequence (<100 sequences/sample)
+- Median frequency is 5,247 (accounts for >100 samples)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#################################################################################
+SPLIT RUN INTO RELEVANT PROJECTS
+#################################################################################
+
+#FILTER and keep only the samples relevant to this project. Leucopaxillus and Cultures
+qiime feature-table filter-samples \
+  --i-table table.qza \
+  --p-where "[#SampleID] IN ('F346','F347')" \
+  --m-metadata-file metadata-NN15.txt \
+  --o-filtered-table table-leucopax.qza
+
+
+#FILTER and keep only the samples relevant to this project. Leucopaxillus and Cultures
+qiime feature-table filter-samples \
+  --i-table table.qza \
+  --p-where "[#SampleID] IN ('F346','F347','F348','F349','F350','F351','F352','F353','F354','F355','F356','F357','F358','F359','F360','F361','F362','F363','F364','F365','F366','F367','F368','F369','F-negative')" \
+  --m-metadata-file metadata-NN15.txt \
+  --o-filtered-table table-leucopax.qza
+
+
+Move files to appropriate working folder
+cp table-leucopax.qza /Volumes/GoogleDrive/Shared\ drives/Research/active_projects/mat_bacteria/Leucopaxillus_mat/analyses/Communities
+cp rep-seqs.qza /Volumes/GoogleDrive/Shared\ drives/Research/active_projects/mat_bacteria/Leucopaxillus_mat/analyses/Communities
+
+[split the others here -- CKI bacteria, Sophia fungi, Karen fungi]
+
+
+#################################################################################
+ASSIGN TAXONOMY
+#################################################################################
+#ASSIGN taxonomy using the classifier trained on the SILVA dataset from the QIIME2 website
+qiime feature-classifier classify-sklearn \
+  --i-classifier silva-138-99-nb-weighted-classifier.qza \
+  --i-reads rep-seqs.qza \
+  --o-classification taxonomy.qza
+
+qiime metadata tabulate \
+  --m-input-file taxonomy.qza \
+  --o-visualization taxonomy.qzv
+ 
+qiime taxa barplot \
+  --i-table table.qza\
+  --i-taxonomy taxonomy.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-visualization taxa-bar-plots.qzv
+  
+
+#################################################################################
+QUALITY CONTROL OF OTUS
+#################################################################################
+#FILTER table to remove Unassigned, eukaryote, mitochondria, and chloroplast sequences
+#Archaea sequences were practically non-existent in the dataset (6.98398E-05 or 0.0000007%) so they were not considered for this study.
+
+qiime taxa filter-table \
+  --i-table table-leucopax.qza \
+  --i-taxonomy taxonomy.qza \
+  --p-exclude Unassigned,Eukaryota,Archaea,mitochondria,chloroplast \
+  --o-filtered-table table-bact-only.qza
+  
+qiime feature-table summarize \
+  --i-table table-prok-only.qza \
+  --o-visualization table-bact-only.qzv \
+  --m-sample-metadata-file metadata-leucopax.txt
+  
+#CREATE another taxa barplot for data exploration
+qiime taxa barplot \
+  --i-table table-prok-only.qza \
+  --i-taxonomy taxonomy.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-visualization taxa-barplot-bact-only.qzv
+
+#################################################################################
+DEALING WITH CONTROLS
+#################################################################################
+
+#EXPORT taxonomy
+qiime tools export \
+  --input-path taxonomy.qza \
+  --output-path exported-taxonomy
+
+#COPY and re-name taxonomy file
+cp exported-taxonomy/taxonomy.tsv exported-taxonomy/biom-taxonomy.tsv
+
+#REPLACE the header of the biom-taxonomy table with QIIME style formatting
+#OTUID	taxonomy	confidence
+
+#Export rarefied OTU table
+qiime tools export \
+  --input-path table-bact-only.qza \
+  --output-path exported-table
+
+#ADD metadata to the OTU table and convert it to tsv to view
+biom add-metadata \
+ -i exported-table/feature-table.biom \
+ -o exported-table/table-bact-only-with-taxonomy.biom \
+ --observation-metadata-fp exported-taxonomy/biom-taxonomy.tsv \
+ --sc-separated taxonomy
+
+#CONVERT biom to tsv to be able to view and sort table
+biom convert \
+  -i exported-table/table-bact-only-with-taxonomy.biom \
+  -o exported-table/table-bact-only-with-taxonomy.tsv \
+  --to-tsv \
+  --process-obs-metadata taxonomy \
+  --header-key taxonomy
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#RESULTS
+#The negative controls had >1000 sequences, 25 ASVs. These OTUs occurred at low levels and appears to be both soil and perhaps human-derived.
+#None of the negative control OTUs were found in the rest of the samples so the negative was removed from the dataset.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+qiime feature-table filter-samples \
+  --i-table table-bact-only.qza \
+  --p-where "[#SampleID] IN ('F-negative')" \
+  --p-exclude-ids \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-filtered-table table-filtered.qza
+
+#FILTER the main feature table so that it removes singletons
+qiime feature-table filter-features \
+  --i-table table-filtered.qza \
+  --p-min-frequency 2 \
+  --o-filtered-table table-final.qza
+  
+qiime feature-table summarize \
+  --i-table table-filtered.qza \
+  --o-visualization table-final.qzv \
+  --m-sample-metadata-file metadata-leucopax.txt 
+
+#CREATE another taxa barplot for data exploration
+qiime taxa barplot \
+  --i-table table-final.qza \
+  --i-taxonomy taxonomy.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-visualization taxa-barplot-final.qzv
+  
+#################################################################################
+PREPARING FOR PHYLOGENETIC DIVERSITY ANALYSES
+#################################################################################
+#Use the resulting filtered rep-seqs in downstream analyses (especially phylogenetic analyses)
+qiime feature-table filter-seqs \
+  --i-data rep-seqs.qza \
+  --i-table table-final.qza \
+  --o-filtered-data rep-seqs-final.qza
+
+qiime phylogeny align-to-tree-mafft-fasttree \
+  --i-sequences rep-seqs-final.qza \
+  --output-dir phylo
+
+#################################################################################
+ALPHA DIVERSITY METRICS
+#################################################################################
+#All samples sequenced very well so all samples could be kept at a high rarefaction number.
+#IMPORTANT there is a bug in the current QIIME version where you must rarefy -10 fewer seqs than the sample you want to keep otherwise it will be thrown out.
+
+#CREATE rarefaction curves
+qiime diversity alpha-rarefaction \
+  --i-table table-final.qza \
+  --i-phylogeny phylo/rooted_tree.qza \
+  --p-max-depth 18640 \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-visualization alpha-rarefaction-18640.qzv
+
+#COMPUTE Core metrics with phylogenetic measures
+qiime diversity core-metrics-phylogenetic \
+  --i-phylogeny phylo/rooted_tree.qza \
+  --i-table table-final.qza \
+  --p-sampling-depth 18640 \
+  --m-metadata-file metadata-leucopax.txt \
+  --output-dir core-metrics-results
+
+#COMPARE certain outputs from the core metrics that you want
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity core-metrics-results/shannon_vector.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-visualization core-metrics-results/shannon-vector-group-significance.qzv
+
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity core-metrics-results/faith_pd_vector.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-visualization core-metrics-results/faith-pd-group-significance.qzv
+
+qiime diversity alpha-group-significance \
+  --i-alpha-diversity core-metrics-results/observed_features_vector.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-visualization core-metrics-results/observed-features-group-significance.qzv
+
+#SUMMARIZE the rarefied table
+qiime feature-table summarize \
+  --i-table core-metrics-results/rarefied_table.qza \
+  --o-visualization core-metrics-results/rarefied_table.qzv \
+  --m-sample-metadata-file metadata-leucopax.txt 
+
+qiime taxa barplot \
+  --i-table core-metrics-results/rarefied_table.qza \
+  --i-taxonomy taxonomy.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-visualization taxa-barplot-rarefied.qzv
+
+
+#################################################################################
+COMMUNITY COMPOSITION
+#################################################################################
+qiime diversity beta-group-significance \
+  --i-distance-matrix core-metrics-results/weighted_unifrac_distance_matrix.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --m-metadata-column SampleType \
+  --o-visualization core-metrics-results/weighted-unifrac-SampleType-significance.qzv \
+  --p-pairwise
+
+
+#################################################################################
+FIND CORE MICROBIOME USING PRESENCE/ABSENCE
+#################################################################################
+#SUBSET table for mat only samples
+#FILTER and keep only the samples relevant to this project. Leucopaxillus and Cultures
+qiime feature-table filter-samples \
+  --i-table table-final.qza \
+  --p-where "[#SampleID] IN ('F346','F347','F348','F349','F350','F351','F358','F359','F360','F361','F362','F363')" \
+  --m-metadata-file metadata-leucopax.txt \
+  --o-filtered-table table-mat-only.qza
+
+#SUMMARIZE the rarefied table
+qiime feature-table summarize \
+  --i-table table-mat-only.qza \
+  --m-sample-metadata-file metadata-leucopax.txt \
+  --o-visualization table-mat-only.qzv
+
+#FIND core ASVs that occur in all samples
+qiime feature-table core-features \
+--i-table table-mat-only.qza \
+--o-visualization table-core-features.qzv
+
+
+#################################################################################
+ANCOM DIFFERENTIAL ABUNDANCE
+#################################################################################
+#This method detects the differential abundance of and OTU based on their metadata categories.
+#It is similar to the traditional "Indicator Species Analysis"", but much more robust and appropriate for microbiome work.
+#Similar to "Indicator Species Analysis", this method will only detect those that are clearly represented in one group of samples and not the rest.
+#It isn't able to take into account high abundance of an OTU in one group of samples vs. low abundance in another.
+#Therefore non-significance shouldn't be interpreted too heavily.
+
+#REMOVE lower abundance OTUs to reduce noise and increase computational efficiency
+# --p-min-samples = minimum number of sample that an OTU has to be found in to be kept
+# --p-min-frequency = The minimum number of sequences that must be present in an OTU to be kept
+
+qiime feature-table filter-features \
+  --i-table table-final.qza \
+  --p-min-frequency 10 \
+  --p-min-samples 6 \
+  --o-filtered-table table-final-ancom.qza
+
+#ADD speudo-counts to replace the zeros that affect statistics
+qiime composition add-pseudocount \
+  --i-table table-final-ancom.qza \
+  --o-composition-table table-final-ancom-pseudocount.qza
+
+#CALCULATE differential abundance among the different categories of samples
+qiime composition ancom \
+  --i-table table-final-ancom-pseudocount.qza \
+  --m-metadata-file metadata-leucopax.txt \
+  --m-metadata-column SampleType \
+  --o-visualization ancom-final-SampleType.qzv
+
+qiime tools view ancom-final-SampleType.qzv
+
++++++++++++++++++++++++++++++++++++++++++++++++
+The only ASV that ANCOM found significant was a7dc05385b66535d96b8bf2406d4e1e2, Burkholderia glumae
++++++++++++++++++++++++++++++++++++++++++++++++
+
+#################################################################################
+ADD TAXONOMY TO OTU TABLE FOR FURTHER ANALYSES OUTSIDE OF QIIME
+#################################################################################
+#EXPORT taxonomy artifact
+qiime tools export \
+  --input-path taxonomy.qza \
+  --output-path exported-taxonomy
+
+#COPY and re-name taxonomy file
+cp exported-taxonomy/taxonomy.tsv exported-taxonomy/biom-taxonomy.tsv
+
+#REPLACE the header of the biom-taxonomy table with QIIME style formatting
+#OTUID	taxonomy	confidence
+
+#Export rarefied OTU table
+qiime tools export \
+  --input-path core-metrics-results/rarefied_table.qza \
+  --output-path exported-rarefied-table
+
+#ADD metadata to the OTU table and convert it to tsv to view
+biom add-metadata \
+ -i exported-rarefied-table/feature-table.biom \
+ -o exported-rarefied-table/feature-table-with-taxonomy.biom \
+ --observation-metadata-fp exported-taxonomy/biom-taxonomy.tsv \
+ --sc-separated taxonomy
+
+#CONVERT biom to tsv for analyses elsewhere
+biom convert \
+  -i exported-rarefied-table/feature-table-with-taxonomy.biom \
+  -o exported-rarefied-table/rarefied-table-with-taxonomy.tsv \
+  --to-tsv \
+  --process-obs-metadata taxonomy \
+  --header-key taxonomy
+
+
+#################################################################################
+EXPORT FILES FROM QZA FOR FURTHER ANALYSES
+#################################################################################
+#EXPORT observed OTU counts
+qiime tools export \
+  --input-path core-metrics-results/observed_features_vector.qza \
+  --output-path exported-data
+
+#RENAME the file
+mv exported-data/alpha-diversity.tsv exported-data/observed-otus.tsv
+
+++++++++++++++++++++++++++++++++++++++++
+#EXPORT Shannon values
+qiime tools export \
+  --input-path core-metrics-results/shannon_vector.qza \
+  --output-path exported-data
+
+#RENAME the file
+mv exported-data/alpha-diversity.tsv exported-data/shannon-diversity.tsv
+
+++++++++++++++++++++++++++++++++++++++++
+#EXPORT PD values
+qiime tools export \
+  --input-path core-metrics-results/faith_pd_vector.qza \
+  --output-path exported-data
+
+#RENAME the file
+mv exported-data/alpha-diversity.tsv exported-data/faith-PD.tsv
+
+
+++++++++++++++++++++++++++++++++++++++++
+#EXPORT final table
+qiime tools export \
+  --input-path table-final.qza \
+  --output-path exported-table
+
+#ADD metadata to the OTU table and convert it to tsv to view
+biom add-metadata \
+ -i exported-table/feature-table.biom \
+ -o exported-table/table-final-with-taxonomy.biom \
+ --observation-metadata-fp exported-taxonomy/biom-taxonomy.tsv \
+ --sc-separated taxonomy
+
+#CONVERT biom to tsv for analyses elsewhere
+biom convert \
+  -i exported-table/table-final-with-taxonomy.biom \
+  -o exported-table/table-final-with-taxonomy.tsv \
+  --to-tsv \
+  --process-obs-metadata taxonomy \
+  --header-key taxonomy
+
+++++++++++++++++++++++++++++++++++++++++
+#EXPORT rooted phylogenetic trees
+qiime tools export \
+  --input-path phylo/rooted_tree.qza \
+  --output-path exported-tree
+
+#RENAME the file
+mv exported-tree/tree.nwk exported-tree/Leucopaxillus-bact-tree.nwk
+
+#EXPORT rep seqs
+qiime tools export \
+  --input-path rep-seqs-final.qza \
+  --output-path exported-tree
+
+#RENAME the file
+mv exported-tree/dna-sequences.fasta exported-tree/Leucopaxillus-bact-seqs.fasta
